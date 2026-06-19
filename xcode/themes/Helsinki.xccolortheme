@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTSourceTextBackground</key>
+	<array>
+		<real>0.9725490196078431</real>
+		<real>0.9803921568627451</real>
+		<real>0.996078431372549</real>
+		<real>1.0</real>
+	</array>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<array>
+		<real>0.9725490196078431</real>
+		<real>0.9803921568627451</real>
+		<real>0.996078431372549</real>
+		<real>1.0</real>
+	</array>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<array>
+		<real>0.9375490196078431</real>
+		<real>0.945392156862745</real>
+		<real>0.961078431372549</real>
+		<real>1.0</real>
+	</array>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<array>
+		<real>0.32941176470588235</real>
+		<real>0.30196078431372547</real>
+		<real>0.25098039215686274</real>
+		<real>1.0</real>
+	</array>
+	<key>DVTSourceTextSelectionColor</key>
+	<array>
+		<real>0.7098039215686275</real>
+		<real>0.35294117647058826</real>
+		<real>0.058823529411764705</real>
+		<real>0.2</real>
+	</array>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<array>
+			<real>0.7098039215686275</real>
+			<real>0.35294117647058826</real>
+			<real>0.058823529411764705</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.character</key>
+		<array>
+			<real>0.12156862745098039</real>
+			<real>0.6666666666666666</real>
+			<real>0.6196078431372549</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.comment</key>
+		<array>
+			<real>0.45098039215686275</real>
+			<real>0.23921568627450981</real>
+			<real>0.6039215686274509</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.comment.doc</key>
+		<array>
+			<real>0.35294117647058826</real>
+			<real>0.12156862745098039</real>
+			<real>0.5411764705882353</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<array>
+			<real>0.35294117647058826</real>
+			<real>0.12156862745098039</real>
+			<real>0.5411764705882353</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.comment.keyword</key>
+		<array>
+			<real>0.45098039215686275</real>
+			<real>0.23921568627450981</real>
+			<real>0.6039215686274509</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.class</key>
+		<array>
+			<real>0.7411764705882353</real>
+			<real>0.2980392156862745</real>
+			<real>0.23921568627450981</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.class.system</key>
+		<array>
+			<real>0.7019607843137254</real>
+			<real>0.1803921568627451</real>
+			<real>0.12156862745098039</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.constant</key>
+		<array>
+			<real>0.058823529411764705</real>
+			<real>0.3568627450980392</real>
+			<real>0.6352941176470588</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<array>
+			<real>0.1803921568627451</real>
+			<real>0.4392156862745098</real>
+			<real>0.6784313725490196</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.function</key>
+		<array>
+			<real>0.7098039215686275</real>
+			<real>0.35294117647058826</real>
+			<real>0.058823529411764705</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.macro</key>
+		<array>
+			<real>0.12941176470588237</real>
+			<real>0.5490196078431373</real>
+			<real>0.0</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.type</key>
+		<array>
+			<real>0.7411764705882353</real>
+			<real>0.2980392156862745</real>
+			<real>0.23921568627450981</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.variable</key>
+		<array>
+			<real>0.32941176470588235</real>
+			<real>0.30196078431372547</real>
+			<real>0.25098039215686274</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<array>
+			<real>0.32941176470588235</real>
+			<real>0.30196078431372547</real>
+			<real>0.25098039215686274</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.keyword</key>
+		<array>
+			<real>0.24313725490196078</real>
+			<real>0.615686274509804</real>
+			<real>0.12941176470588237</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.mark</key>
+		<array>
+			<real>0.45098039215686275</real>
+			<real>0.23921568627450981</real>
+			<real>0.6039215686274509</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.markup.code</key>
+		<array>
+			<real>0.35294117647058826</real>
+			<real>0.12156862745098039</real>
+			<real>0.5411764705882353</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.number</key>
+		<array>
+			<real>0.1803921568627451</real>
+			<real>0.4392156862745098</real>
+			<real>0.6784313725490196</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.plain</key>
+		<array>
+			<real>0.32941176470588235</real>
+			<real>0.30196078431372547</real>
+			<real>0.25098039215686274</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.preprocessor</key>
+		<array>
+			<real>0.12941176470588237</real>
+			<real>0.5490196078431373</real>
+			<real>0.0</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.project</key>
+		<array>
+			<real>0.12941176470588237</real>
+			<real>0.5490196078431373</real>
+			<real>0.0</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.string</key>
+		<array>
+			<real>0.0</real>
+			<real>0.6196078431372549</real>
+			<real>0.5686274509803921</real>
+			<real>1.0</real>
+		</array>
+		<key>xcode.syntax.url</key>
+		<array>
+			<real>0.6980392156862745</real>
+			<real>0.23137254901960785</real>
+			<real>0.0</real>
+			<real>1.0</real>
+		</array>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.character</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.comment.keyword</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.number</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.project</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.string</key>
+		<string>SFMono-Regular - 12.0</string>
+		<key>xcode.syntax.url</key>
+		<string>SFMono-Regular - 12.0</string>
+	</dict>
+</dict>
+</plist>
