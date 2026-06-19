@@ -1,197 +1,152 @@
 <div align="center">
-  <h1>Xcode Theme Generator</h1>
-  <p>Convert ANSI 16-color terminal palettes to <code>.xccolortheme</code> files for Xcode.</p>
+  <h1>Xcode Xscriptor</h1>
+  <p>Convert ANSI terminal color palettes (16 colors per palette, 12 palettes) to <code>.xccolortheme</code> files for Xcode.</p>
 </div>
 
 <div align="center">
-
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Xcode](https://img.shields.io/badge/Xcode-12%2B-blue)](https://developer.apple.com/xcode/)
-  [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
-  [![Themes](https://img.shields.io/badge/Themes-12-purple)](#themes)
-
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-12%2B-blue" alt="Xcode"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python"></a>
+  <a href="#themes"><img src="https://img.shields.io/badge/Themes-12-purple" alt="Themes"></a>
 </div>
 
----
+<hr>
 
-## Table of Contents
+<h2>Content</h2>
 
-- [Overview](#overview)
-- [Themes](#themes)
-- [Usage](#usage)
-- [Color Mapping](#color-mapping)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Security](#security)
-- [Code of Conduct](#code-of-conduct)
-- [Project Structure](#project-structure)
-- [License](#license)
+<ul>
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#themes">Themes</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#related-documents">Related Documents</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#x">X</a></li>
+</ul>
 
----
+<hr>
 
-## Overview
+<h2 id="overview">Overview</h2>
 
-This generator reads ANSI 16-color terminal palettes defined in [`colors.md`](colors.md) and produces Xcode `.xccolortheme` files. Each palette maps to 24 Xcode syntax tokens (keywords, strings, comments, types, etc.) so that the editor's syntax highlighting matches the terminal color scheme.
+<p>
+  This generator reads ANSI terminal palettes (16 colors each, 12 palettes) defined in
+  <a href="colors.md"><code>colors.md</code></a> and produces Xcode
+  <code>.xccolortheme</code> files. Each palette maps to 24 Xcode syntax
+  tokens (keywords, strings, comments, types, etc.) so that the editor's
+  syntax highlighting matches the terminal color scheme.
+</p>
 
-Canonical themes live in [`themes/`](themes/). When the source palette changes, run the generator to rebuild them into [`labs/dist/`](labs/dist/).
+<p>
+  Canonical themes live in <a href="themes/"><code>themes/</code></a>.
+  When the source palette changes, run the generator to rebuild them into
+  <a href="labs/dist/"><code>labs/dist/</code></a>.
+</p>
 
----
+<hr>
 
-## Themes
+<h2 id="themes">Themes</h2>
 
 <div align="center">
-
-| Theme | Background | Type |
-|-------|-----------|------|
-| [X](themes/X.xccolortheme) | `#050505` | dark |
-| [Madrid](themes/Madrid.xccolortheme) | `#fafafa` | light |
-| [Lahabana](themes/Lahabana.xccolortheme) | `#19191a` | dark |
-| [Miami](themes/Miami.xccolortheme) | `#000000` | dark |
-| [Paris](themes/Paris.xccolortheme) | `#1a0a30` | dark |
-| [Tokio](themes/Tokio.xccolortheme) | `#1c1c1d` | dark |
-| [Oslo](themes/Oslo.xccolortheme) | `#3f4451` | dark |
-| [Helsinki](themes/Helsinki.xccolortheme) | `#f8fafe` | light |
-| [Berlin](themes/Berlin.xccolortheme) | `#000000` | dark (monochrome) |
-| [London](themes/London.xccolortheme) | `#ffffff` | light (monochrome) |
-| [Praha](themes/Praha.xccolortheme) | `#1a1a1a` | dark |
-| [Bogota](themes/Bogota.xccolortheme) | `#200b0a` | dark |
-
+  <table>
+    <thead>
+      <tr>
+        <th>Theme</th>
+        <th>Background</th>
+        <th>Type</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="themes/X.xccolortheme">X</a></td><td><code>#050505</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Madrid.xccolortheme">Madrid</a></td><td><code>#fafafa</code></td><td>light</td></tr>
+      <tr><td><a href="themes/Lahabana.xccolortheme">Lahabana</a></td><td><code>#19191a</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Miami.xccolortheme">Miami</a></td><td><code>#000000</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Paris.xccolortheme">Paris</a></td><td><code>#1a0a30</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Tokio.xccolortheme">Tokio</a></td><td><code>#1c1c1d</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Oslo.xccolortheme">Oslo</a></td><td><code>#3f4451</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Helsinki.xccolortheme">Helsinki</a></td><td><code>#f8fafe</code></td><td>light</td></tr>
+      <tr><td><a href="themes/Berlin.xccolortheme">Berlin</a></td><td><code>#000000</code></td><td>dark (monochrome)</td></tr>
+      <tr><td><a href="themes/London.xccolortheme">London</a></td><td><code>#ffffff</code></td><td>light (monochrome)</td></tr>
+      <tr><td><a href="themes/Praha.xccolortheme">Praha</a></td><td><code>#1a1a1a</code></td><td>dark</td></tr>
+      <tr><td><a href="themes/Bogota.xccolortheme">Bogota</a></td><td><code>#200b0a</code></td><td>dark</td></tr>
+    </tbody>
+  </table>
 </div>
 
----
+<hr>
 
-## Usage
+<h2 id="usage">Usage</h2>
 
-```bash
-cd labs
-python3 generate_themes.py
-```
+<pre><code>cd labs
+python3 generate_themes.py</code></pre>
 
-All `.xccolortheme` files are written to `labs/dist/`. Once tested, promote them to `themes/` if desired.
+<p>All <code>.xccolortheme</code> files are written to <code>labs/dist/</code>. Once tested, promote them to <code>themes/</code> if desired.</p>
 
-### Programmatic API
+<h3>Programmatic API</h3>
 
-```python
-from labs.generate_themes import make_theme, THEMES, SYNTAX_MAP
+<pre><code>from labs.generate_themes import make_theme, THEMES, SYNTAX_MAP
 
 theme = THEMES["Praha"]
-colors = make_theme("Praha", theme)
-```
+colors = make_theme("Praha", theme)</code></pre>
 
----
+<hr>
 
-## Color Mapping
+<hr>
 
-Each ANSI palette index is mapped to specific Xcode syntax tokens:
+<h2 id="installation">Installation</h2>
 
-<div align="center">
+<h3>Local</h3>
 
-| ANSI Index | Example Use | Xcode Syntax Key |
-|-----------|-------------|-----------------|
-| `foreground` | default text | `xcode.syntax.plain` |
-| `color0` | -- | -- |
-| `color1` | character literals | `xcode.syntax.character` |
-| `color2` | comments | `xcode.syntax.comment`, `xcode.syntax.comment.keyword`, `xcode.syntax.mark` |
-| `color3` | numbers, system constants | `xcode.syntax.number`, `xcode.syntax.identifier.constant.system` |
-| `color4` | functions, attributes | `xcode.syntax.identifier.function`, `xcode.syntax.attribute` |
-| `color5` | keywords | `xcode.syntax.keyword` |
-| `color6` | classes, types | `xcode.syntax.identifier.class`, `xcode.syntax.identifier.type` |
-| `color7` | variables | `xcode.syntax.identifier.variable` |
-| `color8` | -- | -- |
-| `color9` | strings | `xcode.syntax.string` |
-| `color10` | doc comments | `xcode.syntax.comment.doc`, `xcode.syntax.comment.doc.keyword`, `xcode.syntax.markup.code` |
-| `color11` | constants | `xcode.syntax.identifier.constant` |
-| `color12` | URLs | `xcode.syntax.url` |
-| `color13` | preprocessor, macros, project | `xcode.syntax.preprocessor`, `xcode.syntax.identifier.macro`, `xcode.syntax.project` |
-| `color14` | system classes | `xcode.syntax.identifier.class.system` |
-| `color15` | -- | -- |
+<pre><code>./install.sh              # install all themes
+./install.sh Praha        # install a single theme</code></pre>
+
+<h3>Remote (from GitHub)</h3>
+
+<pre><code>REPO="xscriptor/xcode" bash &lt;(curl -fsSL https://raw.githubusercontent.com/xscriptor/xcode/main/install.sh)</code></pre>
+
+<p>Install a single theme remotely:</p>
+
+<pre><code>REPO="xscriptor/xcode" bash &lt;(curl -fsSL https://raw.githubusercontent.com/xscriptor/xcode/main/install.sh) -s Praha</code></pre>
+
+<h3>Uninstall</h3>
+
+<pre><code>./install.sh -u                                      # local uninstall
+REPO="xscriptor/xcode" bash &lt;(curl -fsSL ...) -s -- -u   # remote uninstall</code></pre>
+
+<p>This removes any theme file matching the known theme names from <code>~/Library/Developer/Xcode/UserData/FontAndColorThemes/</code>.</p>
+
+<p>After installation, restart Xcode and select the theme from <strong>Xcode &gt; Preferences &gt; Themes</strong>.</p>
+
+<hr>
+
+<h2 id="related-documents">Related Documents</h2>
+
+<ul>
+  <li id="colors-md"><a href="colors.md">colors.md</a></li>
+  <li id="contributing-md"><a href="CONTRIBUTING.md">CONTRIBUTING.md</a></li>
+  <li id="security-md"><a href="SECURITY.md">SECURITY.md</a></li>
+  <li id="code-of-conduct-md"><a href="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li>
+  <li id="color-mapping-md"><a href="docs/color-mapping.md">docs/color-mapping.md</a></li>
+  <li id="labs-readme"><a href="labs/README.md">labs/README.md</a></li>
+  <li id="license"><a href="LICENSE.md">labs/README.md</a></li>
+</ul>
+
+<hr>
+
+
+
+<div id="x" align="center">
+<h2>X</h2>
+
+<a href="https://dev.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+</a>
+ & 
+<a href="https://github.com/xscriptor">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+</a>
+ & 
+<a href="https://www.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+</a>
 
 </div>
-
-Palette values are used directly without blending. Background-derived colors (current line highlight, selection, insertion point) are adjusted automatically based on luminance.
-
----
-
-## Installation
-
-### Local
-
-```bash
-./install.sh              # install all themes
-./install.sh Praha        # install a single theme
-```
-
-### Remote (from GitHub)
-
-```bash
-REPO="xscriptor/xcode" bash <(curl -fsSL https://raw.githubusercontent.com/xscriptor/xcode/main/install.sh)
-```
-
-Install a single theme remotely:
-
-```bash
-REPO="xscriptor/xcode" bash <(curl -fsSL https://raw.githubusercontent.com/xscriptor/xcode/main/install.sh) -s Praha
-```
-
-### Uninstall
-
-```bash
-./install.sh -u                                      # local uninstall
-REPO="xscriptor/xcode" bash <(curl -fsSL ...) -s -- -u   # remote uninstall
-```
-
-This removes any theme file matching the known theme names from `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`.
-
-After installation, restart Xcode and select the theme from **Xcode > Preferences > Themes**.
-
----
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## Security
-
-See [SECURITY.md](SECURITY.md).
-
----
-
-## Code of Conduct
-
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-
----
-
-## Project Structure
-
-```
-.
-├── README.md                 -- This file
-├── CONTRIBUTING.md           -- Contribution guidelines
-├── SECURITY.md               -- Security policy
-├── CODE_OF_CONDUCT.md        -- Code of conduct
-├── .gitignore                -- Git ignore rules
-├── install.sh                -- macOS install script
-├── colors.md                 -- Source ANSI color definitions
-│
-├── themes/                   -- Canonical theme files (tracked)
-│   ├── Praha.xccolortheme
-│   ├── Madrid.xccolortheme
-│   └── ...
-│
-└── labs/
-    ├── generate_themes.py    -- Theme generator script
-    ├── dist/                 -- Generated themes (gitignored)
-    │   ├── Praha.xccolortheme
-    │   ├── Madrid.xccolortheme
-    │   └── ...
-    └── README.md             -- Generator-specific docs
-```
-
----
-
-## License
-
-MIT
