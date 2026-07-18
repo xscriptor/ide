@@ -2,19 +2,19 @@
 
 ## Phase 1: Core Theme Library <!-- phase:core-themes -->
 
-- [x] Define base color palette reference (colors.md)
-- [x] Create theme: X
-- [x] Create theme: Madrid
-- [x] Create theme: Lahabana
-- [x] Create theme: Miami
-- [x] Create theme: Paris
-- [x] Create theme: Tokio
-- [x] Create theme: Oslo
-- [x] Create theme: Helsinki
-- [x] Create theme: Berlin
-- [x] Create theme: London
-- [x] Create theme: Praha
-- [x] Create theme: Bogota
+- [x] Define base color palette reference (colors.md) (#3)
+- [x] Create theme: X (#4)
+- [x] Create theme: Madrid (#5)
+- [x] Create theme: Lahabana (#6)
+- [x] Create theme: Miami (#7)
+- [x] Create theme: Paris (#8)
+- [x] Create theme: Tokio (#9)
+- [x] Create theme: Oslo (#10)
+- [x] Create theme: Helsinki (#11)
+- [x] Create theme: Berlin (#12)
+- [x] Create theme: London (#13)
+- [x] Create theme: Praha (#14)
+- [x] Create theme: Bogota (#15)
 
 ## Phase 2: IDE Ports (Code Editors) <!-- phase:code-editor-ports -->
 
@@ -154,17 +154,17 @@
 
 ## Phase 7: Tooling & Automation <!-- phase:tooling -->
 
-- [ ] CLI tool ide-theme to apply schemes from shell
-- [ ] Linter for file structure and required keys per IDE
-- [ ] Contrast and accessibility report (WCAG compliance)
-- [x] Set up .github/scripts/sync_roadmap.py for Roadmap Sync
-- [x] Set up .github/workflows/roadmap-sync.yml GitHub Action
+- [ ] CLI tool ide-theme to apply schemes from shell (#134)
+- [ ] Linter for file structure and required keys per IDE (#135)
+- [ ] Contrast and accessibility report (WCAG compliance) (#136)
+- [x] Set up .github/scripts/sync_roadmap.py for Roadmap Sync (#137)
+- [x] Set up .github/workflows/roadmap-sync.yml GitHub Action (#138)
 
 ## Phase 8: Integrations & Ecosystem <!-- phase:integrations -->
 
-- [ ] Theme companion for terminal emulators (match IDE + terminal colors)
-- [ ] Shell syntax-highlighting theme matching (zsh-syntax-highlighting, fish)
-- [ ] Cross-IDE theme sync tool (apply same palette everywhere)
+- [ ] Theme companion for terminal emulators (match IDE + terminal colors) (#139)
+- [ ] Shell syntax-highlighting theme matching (zsh-syntax-highlighting, fish) (#140)
+- [ ] Cross-IDE theme sync tool (apply same palette everywhere) (#141)
 
 ## Phase 9: Packaging & Releases <!-- phase:packaging -->
 
