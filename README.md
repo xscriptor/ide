@@ -26,16 +26,20 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="xcode/">xcode</a></td>
+      <td><a href="editors/xcode/">xcode</a></td>
       <td>Xcode <code>.xccolortheme</code> files generated from ANSI terminal palettes.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/xscriptor/vscode">Visual Studio Code</a></td>
-      <td>VSCode<code>.vsx</code> extension and full json themes with icon themes and product icon</td>
+      <td>VSCode <code>.vsx</code> extension and full json themes with icon themes and product icon</td>
+    </tr>
+    <tr>
+      <td><a href="editors/sublime/">Sublime Text</a></td>
+      <td>Sublime Text <code>.sublime-color-scheme</code> files for syntax highlighting themes.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/xscriptor/jetbrains">JetBrains</a></td>
-      <td>jetbrains<code>.zip</code> plugin with full xscriptor themes for all the jetbrains IDEs</td>
+      <td>JetBrains <code>.zip</code> plugin with full xscriptor themes for all the JetBrains IDEs.</td>
     </tr>
   </tbody>
 </table>

@@ -64,7 +64,7 @@
 ## Phase 5: Install & Uninstall Scripts <!-- phase:install-scripts -->
 
 - [x] Install script for VS Code (install.sh)
-- [ ] Install script for Sublime Text (install.sh)
+- [x] Install script for Sublime Text (install.sh)
 - [ ] Install script for TextMate (install.sh)
 - [ ] Install script for Vim (install.sh)
 - [ ] Install script for Neovim (install.sh)
@@ -88,7 +88,7 @@
 - [ ] Install script for Jupyter Lab (install.sh)
 
 - [x] Uninstall script for VS Code (uninstall.sh)
-- [ ] Uninstall script for Sublime Text (uninstall.sh)
+- [/] Uninstall script for Sublime Text (uninstall.sh)
 - [ ] Uninstall script for TextMate (uninstall.sh)
 - [ ] Uninstall script for Vim (uninstall.sh)
 - [ ] Uninstall script for Neovim (uninstall.sh)
@@ -114,7 +114,7 @@
 - [x] Main project README.md with monorepo structure
 - [x] Xcode README.md with install instructions
 - [x] README for VS Code
-- [ ] README for Sublime Text
+- [x] README for Sublime Text
 - [ ] README for TextMate
 - [ ] README for Vim / Neovim
 - [ ] README for Emacs
@@ -142,7 +142,7 @@
 - [ ] README for Jupyter Lab
 
 - [x] Previews for VS Code
-- [ ] Previews for Sublime Text
+- [/] Previews for Sublime Text
 - [ ] Previews for Vim / Neovim
 - [x] Previews for IntelliJ IDEA / JetBrains
 - [ ] Previews for Visual Studio
@@ -169,7 +169,7 @@
 ## Phase 9: Packaging & Releases <!-- phase:packaging -->
 
 - [x] Packaging: VS Code extension (.vsix)
-- [ ] Packaging: Sublime Text Package Control
+- [/] Packaging: Sublime Text Package Control
 - [x] Packaging: JetBrains plugin repository
 - [ ] Packaging: Homebrew Tap for macOS
 - [ ] Releases with semantic versioning and changelog
