@@ -38,7 +38,7 @@
 
 ## Phase 3: IDE Ports (Full IDEs & Platforms) <!-- phase:full-ide-ports -->
 
-- [ ] Port themes to IntelliJ IDEA / JetBrains Suite (.icls / .jar)
+- [x] Port themes to IntelliJ IDEA / JetBrains Suite (.icls / .jar)
 - [ ] Port themes to Eclipse (.epf color themes)
 - [ ] Port themes to NetBeans (.zip theme)
 - [ ] Port themes to Visual Studio (.vssettings)
@@ -54,7 +54,7 @@
 ## Phase 4: IDE Ports (Modern & Cloud IDEs) <!-- phase:modern-ide-ports -->
 
 - [ ] Port themes to Nova (Panic, .novaextension)
-- [ ] Port themes to Fleet (JetBrains, JSON themes)
+- [x] Port themes to Fleet (JetBrains, JSON themes)
 - [x] Port themes to Cursor (VS Code fork, ColorTheme)
 - [x] Port themes to Windsurf (VS Code fork, ColorTheme)
 - [ ] Port themes to Replit (themes)
@@ -77,7 +77,7 @@
 - [ ] Install script for Kate (install.sh)
 - [ ] Install script for Gedit (install.sh)
 - [ ] Install script for Notepad++ (install.ps1)
-- [ ] Install script for IntelliJ IDEA / JetBrains (install.sh)
+- [x] Install script for IntelliJ IDEA / JetBrains (install.sh)
 - [ ] Install script for Eclipse (install.sh)
 - [ ] Install script for NetBeans (install.sh)
 - [ ] Install script for Visual Studio (install.ps1)
@@ -98,7 +98,7 @@
 - [ ] Uninstall script for Lite XL (uninstall.sh)
 - [ ] Uninstall script for Micro (uninstall.sh)
 - [ ] Uninstall script for Notepad++ (uninstall.ps1)
-- [ ] Uninstall script for IntelliJ IDEA / JetBrains (uninstall.sh)
+- [x] Uninstall script for IntelliJ IDEA / JetBrains (uninstall.sh)
 - [ ] Uninstall script for Eclipse (uninstall.sh)
 - [ ] Uninstall script for NetBeans (uninstall.sh)
 - [ ] Uninstall script for Visual Studio (uninstall.ps1)
@@ -128,7 +128,7 @@
 - [ ] README for Notepad++
 - [ ] README for CudaText
 - [ ] README for BBEdit
-- [ ] README for IntelliJ IDEA / JetBrains Suite
+- [x] README for IntelliJ IDEA / JetBrains Suite
 - [ ] README for Eclipse
 - [ ] README for NetBeans
 - [ ] README for Visual Studio
@@ -144,7 +144,7 @@
 - [x] Previews for VS Code
 - [ ] Previews for Sublime Text
 - [ ] Previews for Vim / Neovim
-- [ ] Previews for IntelliJ IDEA / JetBrains
+- [x] Previews for IntelliJ IDEA / JetBrains
 - [ ] Previews for Visual Studio
 - [ ] Previews for Eclipse
 - [ ] Quick import guides per platform (Linux/macOS/Windows)
@@ -170,7 +170,7 @@
 
 - [x] Packaging: VS Code extension (.vsix)
 - [ ] Packaging: Sublime Text Package Control
-- [ ] Packaging: JetBrains plugin repository
+- [x] Packaging: JetBrains plugin repository
 - [ ] Packaging: Homebrew Tap for macOS
 - [ ] Releases with semantic versioning and changelog
 - [ ] Quarterly roadmap with measurable goals and milestones

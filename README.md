@@ -33,6 +33,10 @@
       <td><a href="https://github.com/xscriptor/vscode">Visual Studio Code</a></td>
       <td>VSCode<code>.vsx</code> extension and full json themes with icon themes and product icon</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/xscriptor/jetbrains">JetBrains</a></td>
+      <td>jetbrains<code>.zip</code> plugin with full xscriptor themes for all the jetbrains IDEs</td>
+    </tr>
   </tbody>
 </table>
 
