@@ -18,139 +18,139 @@
 
 ## Phase 2: IDE Ports (Code Editors) <!-- phase:code-editor-ports -->
 
-- [x] Port themes to VS Code (.json ColorTheme)
-- [ ] Port themes to Sublime Text (.sublime-color-scheme)
-- [ ] Port themes to TextMate (.tmTheme)
-- [ ] Port themes to Vim (.vim colorscheme)
-- [ ] Port themes to Neovim (.lua colorscheme)
-- [ ] Port themes to Emacs (color theme)
-- [ ] Port themes to Helix (.toml themes)
-- [ ] Port themes to Zed (.json themes)
-- [ ] Port themes to Lite XL (.lua themes)
-- [ ] Port themes to Micro (.json themes)
-- [ ] Port themes to Geany (.scheme files)
-- [ ] Port themes to Kate (.theme files)
-- [ ] Port themes to Gedit (.xml theme files)
-- [ ] Port themes to Notepad++ (.xml theme files)
-- [ ] Port themes to CudaText (.json themes)
-- [ ] Port themes to BBEdit (.bbcolorproject)
-- [ ] Port themes to Kakoune (.kak theme)
+- [x] Port themes to VS Code (.json ColorTheme) (#16)
+- [ ] Port themes to Sublime Text (.sublime-color-scheme) (#17)
+- [ ] Port themes to TextMate (.tmTheme) (#18)
+- [ ] Port themes to Vim (.vim colorscheme) (#19)
+- [ ] Port themes to Neovim (.lua colorscheme) (#20)
+- [ ] Port themes to Emacs (color theme) (#21)
+- [ ] Port themes to Helix (.toml themes) (#22)
+- [ ] Port themes to Zed (.json themes) (#23)
+- [ ] Port themes to Lite XL (.lua themes) (#24)
+- [ ] Port themes to Micro (.json themes) (#25)
+- [ ] Port themes to Geany (.scheme files) (#26)
+- [ ] Port themes to Kate (.theme files) (#27)
+- [ ] Port themes to Gedit (.xml theme files) (#28)
+- [ ] Port themes to Notepad++ (.xml theme files) (#29)
+- [ ] Port themes to CudaText (.json themes) (#30)
+- [ ] Port themes to BBEdit (.bbcolorproject) (#31)
+- [ ] Port themes to Kakoune (.kak theme) (#32)
 
 ## Phase 3: IDE Ports (Full IDEs & Platforms) <!-- phase:full-ide-ports -->
 
-- [x] Port themes to IntelliJ IDEA / JetBrains Suite (.icls / .jar)
-- [ ] Port themes to Eclipse (.epf color themes)
-- [ ] Port themes to NetBeans (.zip theme)
-- [ ] Port themes to Visual Studio (.vssettings)
-- [ ] Port themes to Android Studio (.icls)
-- [ ] Port themes to Qt Creator (.creatortheme)
-- [ ] Port themes to Code::Blocks (.conf)
-- [ ] Port themes to Spyder (.py / .qss themes)
-- [ ] Port themes to RStudio (.tmTheme)
-- [ ] Port themes to Arduino IDE 2.x (JSON themes)
-- [ ] Port themes to Lazarus IDE (.xml themes)
-- [ ] Port themes to CodeLite (.json themes)
+- [x] Port themes to IntelliJ IDEA / JetBrains Suite (.icls / .jar) (#33)
+- [ ] Port themes to Eclipse (.epf color themes) (#34)
+- [ ] Port themes to NetBeans (.zip theme) (#35)
+- [ ] Port themes to Visual Studio (.vssettings) (#36)
+- [ ] Port themes to Android Studio (.icls) (#37)
+- [ ] Port themes to Qt Creator (.creatortheme) (#38)
+- [ ] Port themes to Code::Blocks (.conf) (#39)
+- [ ] Port themes to Spyder (.py / .qss themes) (#40)
+- [ ] Port themes to RStudio (.tmTheme) (#41)
+- [ ] Port themes to Arduino IDE 2.x (JSON themes) (#42)
+- [ ] Port themes to Lazarus IDE (.xml themes) (#43)
+- [ ] Port themes to CodeLite (.json themes) (#44)
 
 ## Phase 4: IDE Ports (Modern & Cloud IDEs) <!-- phase:modern-ide-ports -->
 
-- [ ] Port themes to Nova (Panic, .novaextension)
-- [x] Port themes to Fleet (JetBrains, JSON themes)
-- [x] Port themes to Cursor (VS Code fork, ColorTheme)
-- [x] Port themes to Windsurf (VS Code fork, ColorTheme)
-- [ ] Port themes to Replit (themes)
-- [ ] Port themes to CodeSandbox (themes)
-- [ ] Port themes to Jupyter Lab (theme JSON)
+- [ ] Port themes to Nova (Panic, .novaextension) (#45)
+- [x] Port themes to Fleet (JetBrains, JSON themes) (#46)
+- [x] Port themes to Cursor (VS Code fork, ColorTheme) (#47)
+- [x] Port themes to Windsurf (VS Code fork, ColorTheme) (#48)
+- [ ] Port themes to Replit (themes) (#49)
+- [ ] Port themes to CodeSandbox (themes) (#50)
+- [ ] Port themes to Jupyter Lab (theme JSON) (#51)
 
 ## Phase 5: Install & Uninstall Scripts <!-- phase:install-scripts -->
 
-- [x] Install script for VS Code (install.sh)
-- [x] Install script for Sublime Text (install.sh)
-- [ ] Install script for TextMate (install.sh)
-- [ ] Install script for Vim (install.sh)
-- [ ] Install script for Neovim (install.sh)
-- [ ] Install script for Emacs (install.sh)
-- [ ] Install script for Helix (install.sh)
-- [ ] Install script for Zed (install.sh)
-- [ ] Install script for Lite XL (install.sh)
-- [ ] Install script for Micro (install.sh)
-- [ ] Install script for Geany (install.sh)
-- [ ] Install script for Kate (install.sh)
-- [ ] Install script for Gedit (install.sh)
-- [ ] Install script for Notepad++ (install.ps1)
-- [x] Install script for IntelliJ IDEA / JetBrains (install.sh)
-- [ ] Install script for Eclipse (install.sh)
-- [ ] Install script for NetBeans (install.sh)
-- [ ] Install script for Visual Studio (install.ps1)
-- [ ] Install script for Android Studio (install.sh)
-- [ ] Install script for Qt Creator (install.sh)
-- [ ] Install script for Nova (install.sh)
-- [ ] Install script for Fleet (install.sh)
-- [ ] Install script for Jupyter Lab (install.sh)
+- [x] Install script for VS Code (install.sh) (#52)
+- [x] Install script for Sublime Text (install.sh) (#53)
+- [ ] Install script for TextMate (install.sh) (#54)
+- [ ] Install script for Vim (install.sh) (#55)
+- [ ] Install script for Neovim (install.sh) (#56)
+- [ ] Install script for Emacs (install.sh) (#57)
+- [ ] Install script for Helix (install.sh) (#58)
+- [ ] Install script for Zed (install.sh) (#59)
+- [ ] Install script for Lite XL (install.sh) (#60)
+- [ ] Install script for Micro (install.sh) (#61)
+- [ ] Install script for Geany (install.sh) (#62)
+- [ ] Install script for Kate (install.sh) (#63)
+- [ ] Install script for Gedit (install.sh) (#64)
+- [ ] Install script for Notepad++ (install.ps1) (#65)
+- [x] Install script for IntelliJ IDEA / JetBrains (install.sh) (#66)
+- [ ] Install script for Eclipse (install.sh) (#67)
+- [ ] Install script for NetBeans (install.sh) (#68)
+- [ ] Install script for Visual Studio (install.ps1) (#69)
+- [ ] Install script for Android Studio (install.sh) (#70)
+- [ ] Install script for Qt Creator (install.sh) (#71)
+- [ ] Install script for Nova (install.sh) (#72)
+- [ ] Install script for Fleet (install.sh) (#73)
+- [ ] Install script for Jupyter Lab (install.sh) (#74)
 
-- [x] Uninstall script for VS Code (uninstall.sh)
-- [/] Uninstall script for Sublime Text (uninstall.sh)
-- [ ] Uninstall script for TextMate (uninstall.sh)
-- [ ] Uninstall script for Vim (uninstall.sh)
-- [ ] Uninstall script for Neovim (uninstall.sh)
-- [ ] Uninstall script for Emacs (uninstall.sh)
-- [ ] Uninstall script for Helix (uninstall.sh)
-- [ ] Uninstall script for Zed (uninstall.sh)
-- [ ] Uninstall script for Lite XL (uninstall.sh)
-- [ ] Uninstall script for Micro (uninstall.sh)
-- [ ] Uninstall script for Notepad++ (uninstall.ps1)
-- [x] Uninstall script for IntelliJ IDEA / JetBrains (uninstall.sh)
-- [ ] Uninstall script for Eclipse (uninstall.sh)
-- [ ] Uninstall script for NetBeans (uninstall.sh)
-- [ ] Uninstall script for Visual Studio (uninstall.ps1)
-- [ ] Uninstall script for Android Studio (uninstall.sh)
-- [ ] Uninstall script for Qt Creator (uninstall.sh)
-- [ ] Uninstall script for Nova (uninstall.sh)
-- [ ] Uninstall script for Jupyter Lab (uninstall.sh)
+- [x] Uninstall script for VS Code (uninstall.sh) (#75)
+- [/] Uninstall script for Sublime Text (uninstall.sh) (#76)
+- [ ] Uninstall script for TextMate (uninstall.sh) (#77)
+- [ ] Uninstall script for Vim (uninstall.sh) (#78)
+- [ ] Uninstall script for Neovim (uninstall.sh) (#79)
+- [ ] Uninstall script for Emacs (uninstall.sh) (#80)
+- [ ] Uninstall script for Helix (uninstall.sh) (#81)
+- [ ] Uninstall script for Zed (uninstall.sh) (#82)
+- [ ] Uninstall script for Lite XL (uninstall.sh) (#83)
+- [ ] Uninstall script for Micro (uninstall.sh) (#84)
+- [ ] Uninstall script for Notepad++ (uninstall.ps1) (#85)
+- [x] Uninstall script for IntelliJ IDEA / JetBrains (uninstall.sh) (#86)
+- [ ] Uninstall script for Eclipse (uninstall.sh) (#87)
+- [ ] Uninstall script for NetBeans (uninstall.sh) (#88)
+- [ ] Uninstall script for Visual Studio (uninstall.ps1) (#89)
+- [ ] Uninstall script for Android Studio (uninstall.sh) (#90)
+- [ ] Uninstall script for Qt Creator (uninstall.sh) (#91)
+- [ ] Uninstall script for Nova (uninstall.sh) (#92)
+- [ ] Uninstall script for Jupyter Lab (uninstall.sh) (#93)
 
-- [ ] Per-IDE reset.sh to restore original configs
+- [ ] Per-IDE reset.sh to restore original configs (#94)
 
 ## Phase 6: Documentation & Previews <!-- phase:documentation -->
 
-- [x] Main project README.md with monorepo structure
-- [x] Xcode README.md with install instructions
-- [x] README for VS Code
-- [x] README for Sublime Text
-- [ ] README for TextMate
-- [ ] README for Vim / Neovim
-- [ ] README for Emacs
-- [ ] README for Helix
-- [ ] README for Zed
-- [ ] README for Lite XL
-- [ ] README for Micro
-- [ ] README for Geany
-- [ ] README for Kate
-- [ ] README for Gedit
-- [ ] README for Notepad++
-- [ ] README for CudaText
-- [ ] README for BBEdit
-- [x] README for IntelliJ IDEA / JetBrains Suite
-- [ ] README for Eclipse
-- [ ] README for NetBeans
-- [ ] README for Visual Studio
-- [ ] README for Android Studio
-- [ ] README for Qt Creator
-- [ ] README for Code::Blocks
-- [ ] README for Spyder
-- [ ] README for RStudio
-- [ ] README for Nova
-- [ ] README for Fleet
-- [ ] README for Jupyter Lab
+- [x] Main project README.md with monorepo structure (#95)
+- [x] Xcode README.md with install instructions (#96)
+- [x] README for VS Code (#97)
+- [x] README for Sublime Text (#98)
+- [ ] README for TextMate (#99)
+- [ ] README for Vim / Neovim (#100)
+- [ ] README for Emacs (#101)
+- [ ] README for Helix (#102)
+- [ ] README for Zed (#103)
+- [ ] README for Lite XL (#104)
+- [ ] README for Micro (#105)
+- [ ] README for Geany (#106)
+- [ ] README for Kate (#107)
+- [ ] README for Gedit (#108)
+- [ ] README for Notepad++ (#109)
+- [ ] README for CudaText (#110)
+- [ ] README for BBEdit (#111)
+- [x] README for IntelliJ IDEA / JetBrains Suite (#112)
+- [ ] README for Eclipse (#113)
+- [ ] README for NetBeans (#114)
+- [ ] README for Visual Studio (#115)
+- [ ] README for Android Studio (#116)
+- [ ] README for Qt Creator (#117)
+- [ ] README for Code::Blocks (#118)
+- [ ] README for Spyder (#119)
+- [ ] README for RStudio (#120)
+- [ ] README for Nova (#121)
+- [ ] README for Fleet (#122)
+- [ ] README for Jupyter Lab (#123)
 
-- [x] Previews for VS Code
-- [/] Previews for Sublime Text
-- [ ] Previews for Vim / Neovim
-- [x] Previews for IntelliJ IDEA / JetBrains
-- [ ] Previews for Visual Studio
-- [ ] Previews for Eclipse
-- [ ] Quick import guides per platform (Linux/macOS/Windows)
-- [ ] Troubleshooting section per IDE (paths, caches, quirks)
-- [ ] Support policy and compatibility matrix by IDE / version
-- [ ] Contribution template for new ports and PR guidelines
+- [x] Previews for VS Code (#124)
+- [/] Previews for Sublime Text (#125)
+- [ ] Previews for Vim / Neovim (#126)
+- [x] Previews for IntelliJ IDEA / JetBrains (#127)
+- [ ] Previews for Visual Studio (#128)
+- [ ] Previews for Eclipse (#129)
+- [ ] Quick import guides per platform (Linux/macOS/Windows) (#130)
+- [ ] Troubleshooting section per IDE (paths, caches, quirks) (#131)
+- [ ] Support policy and compatibility matrix by IDE / version (#132)
+- [ ] Contribution template for new ports and PR guidelines (#133)
 
 ## Phase 7: Tooling & Automation <!-- phase:tooling -->
 
@@ -168,9 +168,9 @@
 
 ## Phase 9: Packaging & Releases <!-- phase:packaging -->
 
-- [x] Packaging: VS Code extension (.vsix)
-- [/] Packaging: Sublime Text Package Control
-- [x] Packaging: JetBrains plugin repository
-- [ ] Packaging: Homebrew Tap for macOS
-- [ ] Releases with semantic versioning and changelog
-- [ ] Quarterly roadmap with measurable goals and milestones
+- [x] Packaging: VS Code extension (.vsix) (#142)
+- [/] Packaging: Sublime Text Package Control (#143)
+- [x] Packaging: JetBrains plugin repository (#144)
+- [ ] Packaging: Homebrew Tap for macOS (#145)
+- [ ] Releases with semantic versioning and changelog (#146)
+- [ ] Quarterly roadmap with measurable goals and milestones (#147)
