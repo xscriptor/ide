@@ -1,6 +1,6 @@
 <div align="center">
   <h1>IDE</h1>
-  <p>Monorepo for editor themes and IDE personalizations by Xscriptor.</p>
+  <p>Monorepo for editor and IDE X themes/schemes</p>
 </div>
 
 <div align="center">
@@ -28,6 +28,10 @@
     <tr>
       <td><a href="xcode/">xcode</a></td>
       <td>Xcode <code>.xccolortheme</code> files generated from ANSI terminal palettes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/xscriptor/vscode">Visual Studio Code</a></td>
+      <td>VSCode<code>.vsx</code> extension and full json themes with icon themes and product icon</td>
     </tr>
   </tbody>
 </table>

@@ -18,7 +18,7 @@
 
 ## Phase 2: IDE Ports (Code Editors) <!-- phase:code-editor-ports -->
 
-- [ ] Port themes to VS Code (.json ColorTheme)
+- [x] Port themes to VS Code (.json ColorTheme)
 - [ ] Port themes to Sublime Text (.sublime-color-scheme)
 - [ ] Port themes to TextMate (.tmTheme)
 - [ ] Port themes to Vim (.vim colorscheme)
@@ -55,15 +55,15 @@
 
 - [ ] Port themes to Nova (Panic, .novaextension)
 - [ ] Port themes to Fleet (JetBrains, JSON themes)
-- [ ] Port themes to Cursor (VS Code fork, ColorTheme)
-- [ ] Port themes to Windsurf (VS Code fork, ColorTheme)
+- [x] Port themes to Cursor (VS Code fork, ColorTheme)
+- [x] Port themes to Windsurf (VS Code fork, ColorTheme)
 - [ ] Port themes to Replit (themes)
 - [ ] Port themes to CodeSandbox (themes)
 - [ ] Port themes to Jupyter Lab (theme JSON)
 
 ## Phase 5: Install & Uninstall Scripts <!-- phase:install-scripts -->
 
-- [ ] Install script for VS Code (install.sh)
+- [x] Install script for VS Code (install.sh)
 - [ ] Install script for Sublime Text (install.sh)
 - [ ] Install script for TextMate (install.sh)
 - [ ] Install script for Vim (install.sh)
@@ -87,7 +87,7 @@
 - [ ] Install script for Fleet (install.sh)
 - [ ] Install script for Jupyter Lab (install.sh)
 
-- [ ] Uninstall script for VS Code (uninstall.sh)
+- [x] Uninstall script for VS Code (uninstall.sh)
 - [ ] Uninstall script for Sublime Text (uninstall.sh)
 - [ ] Uninstall script for TextMate (uninstall.sh)
 - [ ] Uninstall script for Vim (uninstall.sh)
@@ -113,7 +113,7 @@
 
 - [x] Main project README.md with monorepo structure
 - [x] Xcode README.md with install instructions
-- [ ] README for VS Code
+- [x] README for VS Code
 - [ ] README for Sublime Text
 - [ ] README for TextMate
 - [ ] README for Vim / Neovim
@@ -141,7 +141,7 @@
 - [ ] README for Fleet
 - [ ] README for Jupyter Lab
 
-- [ ] Previews for VS Code
+- [x] Previews for VS Code
 - [ ] Previews for Sublime Text
 - [ ] Previews for Vim / Neovim
 - [ ] Previews for IntelliJ IDEA / JetBrains
@@ -168,7 +168,7 @@
 
 ## Phase 9: Packaging & Releases <!-- phase:packaging -->
 
-- [ ] Packaging: VS Code extension (.vsix)
+- [x] Packaging: VS Code extension (.vsix)
 - [ ] Packaging: Sublime Text Package Control
 - [ ] Packaging: JetBrains plugin repository
 - [ ] Packaging: Homebrew Tap for macOS
