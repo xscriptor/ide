@@ -9,12 +9,12 @@
 
 <p>
   <code>generate_themes.py</code> reads the palettes defined in
-  <a href="../colors.md"><code>colors.md</code></a> and produces
+  <a href="../../colors.md"><code>colors.md</code></a> and produces
   Xcode theme files in <code>dist/</code>.
   Each theme maps the 16 ANSI colors to 24 Xcode syntax tokens.
 </p>
 
-<p>See the <a href="../README.md">root README</a> for installation instructions and theme listing.</p>
+<p>See the <a href="../../README.md">root README</a> for installation instructions and theme listing.</p>
 
 <hr>
 
@@ -27,7 +27,7 @@
 <h3>Adding a new palette</h3>
 
 <ol>
-  <li>Add your JSON block to <code>../colors.md</code> with keys <code>color0</code> through <code>color15</code>, <code>background</code>, and <code>foreground</code>.</li>
+  <li>Add your JSON block to <code>../../colors.md</code> with keys <code>color0</code> through <code>color15</code>, <code>background</code>, and <code>foreground</code>.</li>
   <li>Add an entry in <code>THEMES</code> dict inside <code>generate_themes.py</code>.</li>
   <li>Run the script to generate the new <code>.xccolortheme</code> file.</li>
 </ol>
@@ -105,4 +105,4 @@ colors = make_theme("Praha", theme)</code></pre>
 
 <hr>
 
-<p><a href="../README.md">Back to root README</a></p>
+<p><a href="../../README.md">Back to root README</a></p>

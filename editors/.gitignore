@@ -1,0 +1,2 @@
+# Ignore generated theme output in dist/ folders
+**/dist/

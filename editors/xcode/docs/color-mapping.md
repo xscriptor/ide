@@ -6,7 +6,7 @@
 <hr>
 
 <p>
-  Each palette defined in <a href="../colors.md"><code>colors.md</code></a>
+  Each palette defined in <a href="../../colors.md"><code>colors.md</code></a>
   contains 16 ANSI colors (<code>color0</code> through <code>color15</code>)
   plus <code>background</code> and <code>foreground</code>.
   The generator maps them to Xcode syntax tokens as follows:
@@ -54,4 +54,4 @@
   insertion point) are computed automatically based on background luminance.
 </p>
 
-<p><a href="../README.md">Back to root README</a></p>
+<p><a href="../../README.md">Back to root README</a></p>
