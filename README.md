@@ -5,6 +5,12 @@
 
 <div align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="editors/"><img src="https://img.shields.io/badge/Editors-34-948ae3" alt="Editors: 34"></a>
+  <a href="colors.json"><img src="https://img.shields.io/badge/Themes-12-5ad4e6" alt="Themes: 12"></a>
+  <a href="https://github.com/xscriptor/ide/releases"><img src="https://img.shields.io/github/v/release/xscriptor/ide?color=fd9353" alt="Release"></a>
+  <a href="https://github.com/xscriptor/ide/stargazers"><img src="https://img.shields.io/github/stars/xscriptor/ide?color=fce566" alt="Stars"></a>
+  <a href="https://github.com/xscriptor/ide"><img src="https://img.shields.io/github/repo-size/xscriptor/ide?color=7bd88f" alt="Repo size"></a>
+  <a href="https://github.com/xscriptor/ide/commits/main"><img src="https://img.shields.io/github/last-commit/xscriptor/ide?color=fc618d" alt="Last commit"></a>
 </div>
 
 <hr>
@@ -167,7 +173,16 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/xscriptor">
-    <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
-  </a>
-</div>
+<h2>X</h2>
+
+<a href="https://dev.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+</a>
+ & 
+<a href="https://github.com/xscriptor">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+</a>
+ & 
+<a href="https://www.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+</a>
