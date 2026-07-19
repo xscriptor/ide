@@ -5,11 +5,10 @@
 
 <div align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="editors/"><img src="https://img.shields.io/badge/Editors-34-948ae3" alt="Editors: 34"></a>
-  <a href="colors.json"><img src="https://img.shields.io/badge/Themes-12-5ad4e6" alt="Themes: 12"></a>
-  <a href="https://github.com/xscriptor/ide/releases"><img src="https://img.shields.io/github/v/release/xscriptor/ide?color=fd9353" alt="Release"></a>
+  <a href="editors/"><img src="https://img.shields.io/badge/Editors-34-948ae3.svg" alt="Editors: 34"></a>
+  <a href="colors.json"><img src="https://img.shields.io/badge/Themes-12-5ad4e6.svg" alt="Themes: 12"></a>
+  <a href="https://github.com/xscriptor/ide"><img src="https://img.shields.io/github/repo-size/xscriptor/ide?label=size&color=7bd88f" alt="Repo size"></a>
   <a href="https://github.com/xscriptor/ide/stargazers"><img src="https://img.shields.io/github/stars/xscriptor/ide?color=fce566" alt="Stars"></a>
-  <a href="https://github.com/xscriptor/ide"><img src="https://img.shields.io/github/repo-size/xscriptor/ide?color=7bd88f" alt="Repo size"></a>
   <a href="https://github.com/xscriptor/ide/commits/main"><img src="https://img.shields.io/github/last-commit/xscriptor/ide?color=fc618d" alt="Last commit"></a>
 </div>
 
