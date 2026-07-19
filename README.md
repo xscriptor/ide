@@ -167,6 +167,14 @@
       <td><a href="https://github.com/xscriptor/fresh">Fresh</a></td>
       <td>Custom color themes for Fresh, the terminal text editor.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/xscriptor/nvim">Neovim</a></td>
+      <td>Complete Neovim configuration with LSP, DAP, and custom X themes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/xscriptor/fresh">Fresh</a></td>
+      <td>Custom color themes for Fresh, the terminal text editor.</td>
+    </tr>
   </tbody>
 </table>
 

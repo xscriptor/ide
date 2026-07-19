@@ -68,7 +68,7 @@
 - [x] Install script for Sublime Text (install.sh)
 - [x] Install script for TextMate (install.sh)
 - [x] Install script for Vim (install.sh)
-- [ ] Install script for Neovim (install.sh)
+- [x] Install script for Neovim (install.sh)
 - [x] Install script for Emacs (install.sh)
 - [x] Install script for Helix (install.sh)
 - [x] Install script for Zed (install.sh)
@@ -104,7 +104,7 @@
 - [/] Uninstall script for Sublime Text (uninstall.sh)
 - [x] Uninstall script for TextMate (uninstall.sh)
 - [x] Uninstall script for Vim (uninstall.sh)
-- [ ] Uninstall script for Neovim (uninstall.sh)
+- [x] Uninstall script for Neovim (uninstall.sh)
 - [x] Uninstall script for Emacs (uninstall.sh)
 - [x] Uninstall script for Helix (uninstall.sh)
 - [x] Uninstall script for Zed (uninstall.sh)
@@ -178,9 +178,9 @@
 
 - [x] Previews for VS Code
 - [/] Previews for Sublime Text
-- [ ] Previews for Vim / Neovim
+- [x] Previews for Vim / Neovim
 - [x] Previews for IntelliJ IDEA / JetBrains
-- [ ] Previews for Visual Studio
+- [x] Previews for Visual Studio
 - [ ] Previews for Eclipse
 - [ ] Quick import guides per platform (Linux/macOS/Windows)
 - [ ] Troubleshooting section per IDE (paths, caches, quirks)
