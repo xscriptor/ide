@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LazarusSyntaxTree>
+  <Version>1</Version>
+  <ThemeName>Xscriptor Paris</ThemeName>
+  <Author>Xscriptor</Author>
+  <TypeHighlights>
+    <TypeHighlight Type="Default" Foreground="#f7f1ff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Comment" Foreground="#c4bdff" Background="#1a0a30" Style="Italic"/>
+    <TypeHighlight Type="String" Foreground="#7bd88f" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Number" Foreground="#fce566" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Keyword" Foreground="#c4bdff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Type" Foreground="#a3f3ff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Function" Foreground="#a3f3ff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Preprocessor" Foreground="#fc618d" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Constant" Foreground="#fce566" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Variable" Foreground="#f7f1ff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Operator" Foreground="#c4bdff" Background="#1a0a30" Style=""/>
+    <TypeHighlight Type="Selection" Background="#3b2d4f" Style=""/>
+    <TypeHighlight Type="CurrentLine" Background="#25163a" Style=""/>
+  </TypeHighlights>
+</LazarusSyntaxTree>

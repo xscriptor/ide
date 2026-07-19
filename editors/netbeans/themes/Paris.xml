@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+  <fontcolor name="default" foreColor="#f7f1ff" backColor="#1a0a30"/>
+  <fontcolor name="caret" foreColor="#c4bdff"/>
+  <fontcolor name="selection" foreColor="#f7f1ff" backColor="#3b2d4f"/>
+  <fontcolor name="selectionForeground" foreColor="#1a0a30"/>
+  <fontcolor name="line-numbers" foreColor="#c4bdff"/>
+  <fontcolor name="current-line" backColor="#25163a"/>
+  <fontcolor name="code-folding" foreColor="#c4bdff"/>
+  <fontcolor name="brace-matching" foreColor="#c4bdff"/>
+  <fontcolor name="comment" foreColor="#c4bdff" italic="true"/>
+  <fontcolor name="string" foreColor="#7bd88f"/>
+  <fontcolor name="number" foreColor="#fce566"/>
+  <fontcolor name="keyword" foreColor="#c4bdff"/>
+  <fontcolor name="type" foreColor="#a3f3ff"/>
+  <fontcolor name="method" foreColor="#a3f3ff"/>
+  <fontcolor name="operator" foreColor="#c4bdff"/>
+  <fontcolor name="constant" foreColor="#fce566"/>
+  <fontcolor name="field" foreColor="#f7f1ff"/>
+  <fontcolor name="local-variable" foreColor="#f7f1ff"/>
+  <fontcolor name="parameter" foreColor="#a3f3ff"/>
+  <fontcolor name="annotation" foreColor="#fc618d"/>
+  <fontcolor name="class" foreColor="#a3f3ff"/>
+  <fontcolor name="interface" foreColor="#a3f3ff"/>
+  <fontcolor name="separator" foreColor="#c4bdff"/>
+  <fontcolor name="whitespace" foreColor="#c4bdff"/>
+</fontscolors>

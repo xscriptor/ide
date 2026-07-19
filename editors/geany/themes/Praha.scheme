@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Praha
+Description=Xscriptor Praha theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#1a1a1a
+caret=0;0;0;
+caret0=255;154;162
+current_line=#252525
+line_numbers=#6272A4
+selection=#3c3c3c
+
+[NamedStyles]
+comment=98;114;164,false,true,false,false
+commentline=98;114;164,false,true,false,false
+commentdoc=98;114;164,false,true,false,false
+commentdockeyword=98;114;164,false,true,false,false
+string=184;230;160,false,false,false,false
+number=255;228;163,false,false,false,false
+keyword=255;154;162,false,false,false,false
+type=139;233;253,false,false,false,false
+function=189;147;249,false,false,false,false
+preprocessor=255;110;110,false,false,false,false
+constant=255;228;163,false,false,false,false
+variable=255;255;255,false,false,false,false
+operator=255;154;162,false,false,false,false

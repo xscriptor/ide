@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Berlin
+Description=Xscriptor Berlin theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#000000
+caret=0;0;0;
+caret0=170;170;170
+current_line=#0a0a0a
+line_numbers=#666666
+selection=#1f1f1f
+
+[NamedStyles]
+comment=102;102;102,false,true,false,false
+commentline=102;102;102,false,true,false,false
+commentdoc=102;102;102,false,true,false,false
+commentdockeyword=102;102;102,false,true,false,false
+string=187;187;187,false,false,false,false
+number=221;221;221,false,false,false,false
+keyword=170;170;170,false,false,false,false
+type=204;204;204,false,false,false,false
+function=136;136;136,false,false,false,false
+preprocessor=187;187;187,false,false,false,false
+constant=221;221;221,false,false,false,false
+variable=204;204;204,false,false,false,false
+operator=170;170;170,false,false,false,false

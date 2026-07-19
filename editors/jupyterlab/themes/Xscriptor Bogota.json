@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Bogota",
+  "type": "theme",
+  "colors": {
+    "background": "#200b0a",
+    "foreground": "#f7f1ff",
+    "caret": "#ff9999",
+    "selection": "#402e2f",
+    "line-number": "#8c7e84",
+    "cm-comment": "#8c7e84",
+    "cm-string": "#7bd88f",
+    "cm-number": "#ffed89",
+    "cm-keyword": "#ff9999",
+    "cm-type": "#47e6ff",
+    "cm-def": "#47e6ff",
+    "cm-variable": "#f7f1ff",
+    "cm-operator": "#ff9999",
+    "cm-meta": "#fc618d",
+    "cm-builtin": "#47e6ff",
+    "cm-tag": "#fc618d",
+    "cm-attribute": "#ffed89"
+  }
+}

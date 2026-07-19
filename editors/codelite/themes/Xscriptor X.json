@@ -1,0 +1,26 @@
+{
+  "name": "Xscriptor X",
+  "theme": {
+    "background": "#050505",
+    "foreground": "#f7f1ff",
+    "caret": "#948ae3",
+    "selection": "#29282a",
+    "line_numbers": "#7e7b82",
+    "current_line": "#111112",
+    "fold": "#7e7b82",
+    "matching_bracket": "#948ae3",
+    "bookmark": "#948ae3",
+    "breakpoint": "#fc618d",
+    "syntax": {
+      "comment": "#7e7b82",
+      "string": "#7bd88f",
+      "number": "#fce566",
+      "keyword": "#948ae3",
+      "type": "#5ad4e6",
+      "function": "#fd9353",
+      "preprocessor": "#fc618d",
+      "variable": "#f7f1ff",
+      "constant": "#fce566"
+    }
+  }
+}

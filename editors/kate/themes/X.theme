@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor X
+Author=Xscriptor
+Description=Xscriptor X theme for Kate
+
+[Colors]
+Background=#050505
+Foreground=#f7f1ff
+Selection=#29282a
+Current Line=#111112
+Line Numbers=#7e7b82
+Cursor=#948ae3
+Tab Marker=#7e7b82
+Bracket=#948ae3
+Word Wrap Marker=#7e7b82
+Search Highlight=#fce566
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#050505
+Highlight=#111112
+Highlighted Bracket=#948ae3
+Code Folding=#7e7b82
+Line Numbers=#7e7b82
+Selection=#29282a
+Word Wrap=#7e7b82
+Tab Marker=#7e7b82
+
+[Syntax]
+Comment=#7e7b82
+String=#7bd88f
+Number=#fce566
+Keyword=#948ae3
+Type=#5ad4e6
+Function=#fd9353
+Variable=#f7f1ff
+Constant=#fce566
+Preprocessor=#fc618d
+Operator=#948ae3

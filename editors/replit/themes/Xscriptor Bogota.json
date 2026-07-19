@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Bogota",
+  "description": "Xscriptor Bogota theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#200b0a",
+    "foreground": "#f7f1ff",
+    "primary": "#ff9999",
+    "secondary": "#47e6ff",
+    "accent": "#47e6ff",
+    "success": "#7bd88f",
+    "warning": "#ffed89",
+    "error": "#fc618d",
+    "info": "#47e6ff",
+    "muted": "#8c7e84",
+    "border": "#2b1616",
+    "surface": "#200b0a",
+    "code": {
+      "comment": "#8c7e84",
+      "string": "#7bd88f",
+      "number": "#ffed89",
+      "keyword": "#ff9999",
+      "type": "#47e6ff",
+      "function": "#47e6ff",
+      "variable": "#f7f1ff",
+      "constant": "#ffed89",
+      "operator": "#ff9999",
+      "preprocessor": "#fc618d",
+      "tag": "#fc618d",
+      "attribute": "#ffed89"
+    }
+  }
+}

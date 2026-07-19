@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Miami",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#000000",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#252426",
+      "EditorSelFocused": "#252426",
+      "EditorLineNumbers": "#69676c",
+      "EditorLineNumbersActive": "#D36CFF",
+      "EditorCaret": "#D36CFF",
+      "EditorCurrentLine": "#0c0c0d",
+      "EditorBookmark": "#D36CFF",
+      "TabBg": "#000000",
+      "TabActive": "#0c0c0d",
+      "TabPassive": "#000000",
+      "StatusLine": "#000000",
+      "ScrollBar": "#69676c"
+    }
+  },
+  "lexer": {
+    "Comment": "#69676c",
+    "String": "#7FFFD4",
+    "Number": "#FFD84C",
+    "Keyword": "#D36CFF",
+    "Identifier": "#f7f1ff",
+    "Function": "#00FFA8",
+    "Class": "#47CFFF",
+    "Type": "#47CFFF",
+    "Preprocessor": "#FF4C8B",
+    "Constant": "#FFD84C",
+    "Variable": "#f7f1ff",
+    "Operator": "#D36CFF"
+  }
+}

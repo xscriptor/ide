@@ -1,0 +1,35 @@
+{
+  "name": "tokio",
+  "comment": "Xscriptor Tokio theme",
+  "colors": {
+    "background": "#1c1c1d",
+    "foreground": "#f7f1ff",
+    "lineNumber": "#69676c",
+    "cursorLine": "#272728",
+    "selection": "rgba(247, 241, 255, 0.15)",
+    "tab": "#272728",
+    "divider": "#69676c",
+    "statusline": "#1c1c1d",
+    "statuslineprompt": "#948ae3",
+    "color-column": "#272728",
+    "gutter": "#1c1c1d"
+  },
+  "syntax": {
+    "comment": "#69676c",
+    "constant": "#fce566",
+    "number": "#fce566",
+    "string": "#7bd88f",
+    "identifier": "#f7f1ff",
+    "keyword": "#948ae3",
+    "statement": "#948ae3",
+    "type": "#5ad4e6",
+    "preproc": "#fc618d",
+    "predefined": "#5ad4e6",
+    "symbol": "#f7f1ff",
+    "function": "#fd9353",
+    "variable": "#f7f1ff",
+    "special": "#fc618d",
+    "tag": "#fc618d",
+    "error": "#fc618d"
+  }
+}

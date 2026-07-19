@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Praha
+Author=Xscriptor
+Description=Xscriptor Praha theme for Kate
+
+[Colors]
+Background=#1a1a1a
+Foreground=#ffffff
+Selection=#3c3c3c
+Current Line=#252525
+Line Numbers=#6272A4
+Cursor=#FF9AA2
+Tab Marker=#6272A4
+Bracket=#FF9AA2
+Word Wrap Marker=#6272A4
+Search Highlight=#FFE4A3
+
+[Editor Colors]
+Text=#ffffff
+Text Background=#1a1a1a
+Highlight=#252525
+Highlighted Bracket=#FF9AA2
+Code Folding=#6272A4
+Line Numbers=#6272A4
+Selection=#3c3c3c
+Word Wrap=#6272A4
+Tab Marker=#6272A4
+
+[Syntax]
+Comment=#6272A4
+String=#B8E6A0
+Number=#FFE4A3
+Keyword=#FF9AA2
+Type=#8BE9FD
+Function=#BD93F9
+Variable=#ffffff
+Constant=#FFE4A3
+Preprocessor=#FF6E6E
+Operator=#FF9AA2

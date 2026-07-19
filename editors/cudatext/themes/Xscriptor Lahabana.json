@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Lahabana",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#19191a",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#3a393c",
+      "EditorSelFocused": "#3a393c",
+      "EditorLineNumbers": "#67656a",
+      "EditorLineNumbersActive": "#948ae3",
+      "EditorCaret": "#948ae3",
+      "EditorCurrentLine": "#242425",
+      "EditorBookmark": "#948ae3",
+      "TabBg": "#19191a",
+      "TabActive": "#242425",
+      "TabPassive": "#19191a",
+      "StatusLine": "#19191a",
+      "ScrollBar": "#67656a"
+    }
+  },
+  "lexer": {
+    "Comment": "#67656a",
+    "String": "#7bd88f",
+    "Number": "#e5ff9d",
+    "Keyword": "#948ae3",
+    "Identifier": "#f7f1ff",
+    "Function": "#fd9353",
+    "Class": "#5ad4e6",
+    "Type": "#5ad4e6",
+    "Preprocessor": "#fc618d",
+    "Constant": "#e5ff9d",
+    "Variable": "#f7f1ff",
+    "Operator": "#948ae3"
+  }
+}

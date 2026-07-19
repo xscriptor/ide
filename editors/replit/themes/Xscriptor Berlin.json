@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Berlin",
+  "description": "Xscriptor Berlin theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#000000",
+    "foreground": "#cccccc",
+    "primary": "#aaaaaa",
+    "secondary": "#cccccc",
+    "accent": "#888888",
+    "success": "#bbbbbb",
+    "warning": "#dddddd",
+    "error": "#999999",
+    "info": "#cccccc",
+    "muted": "#666666",
+    "border": "#0a0a0a",
+    "surface": "#000000",
+    "code": {
+      "comment": "#666666",
+      "string": "#bbbbbb",
+      "number": "#dddddd",
+      "keyword": "#aaaaaa",
+      "type": "#cccccc",
+      "function": "#888888",
+      "variable": "#cccccc",
+      "constant": "#dddddd",
+      "operator": "#aaaaaa",
+      "preprocessor": "#bbbbbb",
+      "tag": "#999999",
+      "attribute": "#dddddd"
+    }
+  }
+}

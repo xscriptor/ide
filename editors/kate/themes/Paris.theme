@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Paris
+Author=Xscriptor
+Description=Xscriptor Paris theme for Kate
+
+[Colors]
+Background=#1a0a30
+Foreground=#f7f1ff
+Selection=#3b2d4f
+Current Line=#25163a
+Line Numbers=#c4bdff
+Cursor=#c4bdff
+Tab Marker=#c4bdff
+Bracket=#c4bdff
+Word Wrap Marker=#c4bdff
+Search Highlight=#fce566
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#1a0a30
+Highlight=#25163a
+Highlighted Bracket=#c4bdff
+Code Folding=#c4bdff
+Line Numbers=#c4bdff
+Selection=#3b2d4f
+Word Wrap=#c4bdff
+Tab Marker=#c4bdff
+
+[Syntax]
+Comment=#c4bdff
+String=#7bd88f
+Number=#fce566
+Keyword=#c4bdff
+Type=#a3f3ff
+Function=#a3f3ff
+Variable=#f7f1ff
+Constant=#fce566
+Preprocessor=#fc618d
+Operator=#c4bdff

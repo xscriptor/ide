@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme SYSTEM "gedit-color-scheme.dtd">
+<theme>
+  <name>Xscriptor Paris</name>
+  <author>Xscriptor</author>
+  <description>Xscriptor Paris theme for Gedit</description>
+  <color name="background" value="#1a0a30"/>
+  <color name="foreground" value="#f7f1ff"/>
+  <color name="cursor" value="#c4bdff"/>
+  <color name="selection" value="rgba(247, 241, 255, 0.15)"/>
+  <color name="current_line" value="#25163a"/>
+  <color name="line_numbers" value="#c4bdff"/>
+  <color name="bracket_match" value="#c4bdff"/>
+  <color name="search_match" value="#fce566"/>
+  <!-- Styles -->
+  <style name="text" foreground="#f7f1ff" background="#1a0a30"/>
+  <style name="cursor" foreground="#c4bdff"/>
+  <style name="current-line" background="#25163a"/>
+  <style name="line-numbers" foreground="#c4bdff"/>
+  <style name="selection" background="rgba(247, 241, 255, 0.15)"/>
+  <style name="search-match" foreground="#1a0a30" background="#fce566"/>
+  <!-- Syntax -->
+  <style name="comment" foreground="#c4bdff" italic="true"/>
+  <style name="string" foreground="#7bd88f"/>
+  <style name="constant" foreground="#fce566"/>
+  <style name="constant.numeric" foreground="#fce566"/>
+  <style name="variable" foreground="#f7f1ff"/>
+  <style name="keyword" foreground="#c4bdff"/>
+  <style name="type" foreground="#a3f3ff"/>
+  <style name="function" foreground="#a3f3ff"/>
+  <style name="preprocessor" foreground="#fc618d"/>
+  <style name="specials" foreground="#fc618d"/>
+  <style name="def:linenumber" foreground="#c4bdff"/>
+</theme>

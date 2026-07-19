@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Oslo",
+  "type": "theme",
+  "colors": {
+    "background": "#3f4451",
+    "foreground": "#abb2bf",
+    "caret": "#c162de",
+    "selection": "#4f5462",
+    "line-number": "#959ca9",
+    "cm-comment": "#959ca9",
+    "cm-string": "#8cc265",
+    "cm-number": "#d18f52",
+    "cm-keyword": "#c162de",
+    "cm-type": "#42b3c2",
+    "cm-def": "#4aa5f0",
+    "cm-variable": "#abb2bf",
+    "cm-operator": "#c162de",
+    "cm-meta": "#ff616e",
+    "cm-builtin": "#42b3c2",
+    "cm-tag": "#e05561",
+    "cm-attribute": "#d18f52"
+  }
+}

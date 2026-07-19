@@ -1,0 +1,30 @@
+<UserSettings>
+  <ApplicationIdentity version="17.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment">
+      <Category name="FontsAndColors" Category="{1EDA5DD4-927A-43A7-810E-7FD247D0DA11}" Package="{F5E7E717-1221-4B36-9B1C-5A85AD223A5F}" RegisteredName="FontsAndColors" PackageName="Visual Studio Environment">
+        <Property name="Version">2.0</Property>
+        <Property name="ThemeName">Xscriptor Madrid</Property>
+        <Property name="IsDirty">true</Property>
+        <Items>
+          <Item Name="Plain Text" Background="0x00FAFAFA" Foreground="0x001A1A1A"/>
+          <Item Name="Selected Text" Background="0x00D8D8D8"/>
+          <Item Name="Inactive Selected Text" Background="0x00E8E8E8"/>
+          <Item Name="CurrentLine" Background="0x00EFEFEF"/>
+          <Item Name="Line Numbers" Foreground="0x004D4D4D"/>
+          <Item Name="Comment" Foreground="0x004D4D4D"/>
+          <Item Name="String" Foreground="0x00287A00"/>
+          <Item Name="String (C# @ Verbatim)" Foreground="0x00287A00"/>
+          <Item Name="Number" Foreground="0x0008648A"/>
+          <Item Name="Keyword" Foreground="0x0099264D"/>
+          <Item Name="Type" Foreground="0x009E7A00"/>
+          <Item Name="User Types" Foreground="0x009E7A00"/>
+          <Item Name="Identifier" Foreground="0x001A1A1A"/>
+          <Item Name="Operator" Foreground="0x0099264D"/>
+          <Item Name="Preprocessor Keyword" Foreground="0x00260099"/>
+          <Item Name="Excluded Code" Foreground="0x004D4D4D"/>
+        </Items>
+      </Category>
+    </ToolsOptionsCategory>
+  </ToolsOptions>
+</UserSettings>

@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor London",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#ffffff",
+      "EditorFont": "#333333",
+      "EditorSel": "#e0e0e0",
+      "EditorSelFocused": "#e0e0e0",
+      "EditorLineNumbers": "#333333",
+      "EditorLineNumbersActive": "#777777",
+      "EditorCaret": "#777777",
+      "EditorCurrentLine": "#f5f5f5",
+      "EditorBookmark": "#777777",
+      "TabBg": "#ffffff",
+      "TabActive": "#f5f5f5",
+      "TabPassive": "#ffffff",
+      "StatusLine": "#ffffff",
+      "ScrollBar": "#333333"
+    }
+  },
+  "lexer": {
+    "Comment": "#333333",
+    "String": "#444444",
+    "Number": "#555555",
+    "Keyword": "#777777",
+    "Identifier": "#333333",
+    "Function": "#666666",
+    "Class": "#888888",
+    "Type": "#888888",
+    "Preprocessor": "#444444",
+    "Constant": "#555555",
+    "Variable": "#333333",
+    "Operator": "#777777"
+  }
+}

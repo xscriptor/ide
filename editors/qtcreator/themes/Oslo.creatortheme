@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Oslo">
+  <style name="Text" foreground="#abb2bf" background="#3f4451"/>
+  <style name="LineNumber" foreground="#959ca9" background="#3f4451"/>
+  <style name="CurrentLineNumber" foreground="#c162de" background="#444a56"/>
+  <style name="Selection" background="#4f5462"/>
+  <style name="CurrentLine" background="#444a56"/>
+  <style name="SearchResult" foreground="#3f4451" background="#d18f52"/>
+  <style name="SearchScope" background="rgba(209, 143, 82, 0.3)"/>
+  <style name="Parentheses" foreground="#c162de" background="#444a56"/>
+  <style name="VisualWhitespace" foreground="#959ca9"/>
+  <style name="MismatchingParentheses" foreground="#e05561"/>
+  <style name="Comment" foreground="#959ca9" italic="true"/>
+  <style name="Keyword" foreground="#c162de"/>
+  <style name="Type" foreground="#42b3c2"/>
+  <style name="Function" foreground="#4aa5f0"/>
+  <style name="String" foreground="#8cc265"/>
+  <style name="Number" foreground="#d18f52"/>
+  <style name="Preprocessor" foreground="#ff616e"/>
+  <style name="Operator" foreground="#c162de"/>
+  <style name="Constant" foreground="#d18f52"/>
+  <style name="Variable" foreground="#abb2bf"/>
+</style-scheme>

@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Oslo
+Description=Xscriptor Oslo theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#3f4451
+caret=0;0;0;
+caret0=193;98;222
+current_line=#444a56
+line_numbers=#959ca9
+selection=#4f5462
+
+[NamedStyles]
+comment=149;156;169,false,true,false,false
+commentline=149;156;169,false,true,false,false
+commentdoc=149;156;169,false,true,false,false
+commentdockeyword=149;156;169,false,true,false,false
+string=140;194;101,false,false,false,false
+number=209;143;82,false,false,false,false
+keyword=193;98;222,false,false,false,false
+type=66;179;194,false,false,false,false
+function=74;165;240,false,false,false,false
+preprocessor=255;97;110,false,false,false,false
+constant=209;143;82,false,false,false,false
+variable=171;178;191,false,false,false,false
+operator=193;98;222,false,false,false,false

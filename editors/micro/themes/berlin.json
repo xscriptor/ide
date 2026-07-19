@@ -1,0 +1,35 @@
+{
+  "name": "berlin",
+  "comment": "Xscriptor Berlin theme",
+  "colors": {
+    "background": "#000000",
+    "foreground": "#cccccc",
+    "lineNumber": "#666666",
+    "cursorLine": "#0a0a0a",
+    "selection": "rgba(204, 204, 204, 0.15)",
+    "tab": "#0a0a0a",
+    "divider": "#666666",
+    "statusline": "#000000",
+    "statuslineprompt": "#aaaaaa",
+    "color-column": "#0a0a0a",
+    "gutter": "#000000"
+  },
+  "syntax": {
+    "comment": "#666666",
+    "constant": "#dddddd",
+    "number": "#dddddd",
+    "string": "#bbbbbb",
+    "identifier": "#cccccc",
+    "keyword": "#aaaaaa",
+    "statement": "#aaaaaa",
+    "type": "#cccccc",
+    "preproc": "#bbbbbb",
+    "predefined": "#cccccc",
+    "symbol": "#cccccc",
+    "function": "#888888",
+    "variable": "#cccccc",
+    "special": "#999999",
+    "tag": "#999999",
+    "error": "#999999"
+  }
+}

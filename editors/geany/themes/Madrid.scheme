@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Madrid
+Description=Xscriptor Madrid theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#fafafa
+caret=0;0;0;
+caret0=77;38;153
+current_line=#efefef
+line_numbers=#4d4d4d
+selection=#d8d8d8
+
+[NamedStyles]
+comment=77;77;77,false,true,false,false
+commentline=77;77;77,false,true,false,false
+commentdoc=77;77;77,false,true,false,false
+commentdockeyword=77;77;77,false,true,false,false
+string=0;122;40,false,false,false,false
+number=138;100;8,false,false,false,false
+keyword=77;38;153,false,false,false,false
+type=0;122;158,false,false,false,false
+function=0;122;158,false,false,false,false
+preprocessor=153;0;38,false,false,false,false
+constant=138;100;8,false,false,false,false
+variable=26;26;26,false,false,false,false
+operator=77;38;153,false,false,false,false

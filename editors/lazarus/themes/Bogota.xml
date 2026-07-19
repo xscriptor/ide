@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LazarusSyntaxTree>
+  <Version>1</Version>
+  <ThemeName>Xscriptor Bogota</ThemeName>
+  <Author>Xscriptor</Author>
+  <TypeHighlights>
+    <TypeHighlight Type="Default" Foreground="#f7f1ff" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Comment" Foreground="#8c7e84" Background="#200b0a" Style="Italic"/>
+    <TypeHighlight Type="String" Foreground="#7bd88f" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Number" Foreground="#ffed89" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Keyword" Foreground="#ff9999" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Type" Foreground="#47e6ff" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Function" Foreground="#47e6ff" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Preprocessor" Foreground="#fc618d" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Constant" Foreground="#ffed89" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Variable" Foreground="#f7f1ff" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Operator" Foreground="#ff9999" Background="#200b0a" Style=""/>
+    <TypeHighlight Type="Selection" Background="#402e2f" Style=""/>
+    <TypeHighlight Type="CurrentLine" Background="#2b1616" Style=""/>
+  </TypeHighlights>
+</LazarusSyntaxTree>

@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Oslo",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#3f4451",
+      "EditorFont": "#abb2bf",
+      "EditorSel": "#4f5462",
+      "EditorSelFocused": "#4f5462",
+      "EditorLineNumbers": "#959ca9",
+      "EditorLineNumbersActive": "#c162de",
+      "EditorCaret": "#c162de",
+      "EditorCurrentLine": "#444a56",
+      "EditorBookmark": "#c162de",
+      "TabBg": "#3f4451",
+      "TabActive": "#444a56",
+      "TabPassive": "#3f4451",
+      "StatusLine": "#3f4451",
+      "ScrollBar": "#959ca9"
+    }
+  },
+  "lexer": {
+    "Comment": "#959ca9",
+    "String": "#8cc265",
+    "Number": "#d18f52",
+    "Keyword": "#c162de",
+    "Identifier": "#abb2bf",
+    "Function": "#4aa5f0",
+    "Class": "#42b3c2",
+    "Type": "#42b3c2",
+    "Preprocessor": "#ff616e",
+    "Constant": "#d18f52",
+    "Variable": "#abb2bf",
+    "Operator": "#c162de"
+  }
+}

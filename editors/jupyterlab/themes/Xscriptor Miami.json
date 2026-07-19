@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Miami",
+  "type": "theme",
+  "colors": {
+    "background": "#000000",
+    "foreground": "#f7f1ff",
+    "caret": "#D36CFF",
+    "selection": "#252426",
+    "line-number": "#69676c",
+    "cm-comment": "#69676c",
+    "cm-string": "#7FFFD4",
+    "cm-number": "#FFD84C",
+    "cm-keyword": "#D36CFF",
+    "cm-type": "#47CFFF",
+    "cm-def": "#00FFA8",
+    "cm-variable": "#f7f1ff",
+    "cm-operator": "#D36CFF",
+    "cm-meta": "#FF4C8B",
+    "cm-builtin": "#47CFFF",
+    "cm-tag": "#FF4C8B",
+    "cm-attribute": "#FFD84C"
+  }
+}

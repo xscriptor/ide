@@ -1,0 +1,26 @@
+{
+  "name": "Xscriptor Paris",
+  "theme": {
+    "background": "#1a0a30",
+    "foreground": "#f7f1ff",
+    "caret": "#c4bdff",
+    "selection": "#3b2d4f",
+    "line_numbers": "#c4bdff",
+    "current_line": "#25163a",
+    "fold": "#c4bdff",
+    "matching_bracket": "#c4bdff",
+    "bookmark": "#c4bdff",
+    "breakpoint": "#fc618d",
+    "syntax": {
+      "comment": "#c4bdff",
+      "string": "#7bd88f",
+      "number": "#fce566",
+      "keyword": "#c4bdff",
+      "type": "#a3f3ff",
+      "function": "#a3f3ff",
+      "preprocessor": "#fc618d",
+      "variable": "#f7f1ff",
+      "constant": "#fce566"
+    }
+  }
+}

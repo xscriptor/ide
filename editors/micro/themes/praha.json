@@ -1,0 +1,35 @@
+{
+  "name": "praha",
+  "comment": "Xscriptor Praha theme",
+  "colors": {
+    "background": "#1a1a1a",
+    "foreground": "#ffffff",
+    "lineNumber": "#6272A4",
+    "cursorLine": "#252525",
+    "selection": "rgba(255, 255, 255, 0.15)",
+    "tab": "#252525",
+    "divider": "#6272A4",
+    "statusline": "#1A1A1A",
+    "statuslineprompt": "#FF9AA2",
+    "color-column": "#252525",
+    "gutter": "#1a1a1a"
+  },
+  "syntax": {
+    "comment": "#6272A4",
+    "constant": "#FFE4A3",
+    "number": "#FFE4A3",
+    "string": "#B8E6A0",
+    "identifier": "#ffffff",
+    "keyword": "#FF9AA2",
+    "statement": "#FF9AA2",
+    "type": "#8BE9FD",
+    "preproc": "#FF6E6E",
+    "predefined": "#8BE9FD",
+    "symbol": "#ffffff",
+    "function": "#BD93F9",
+    "variable": "#ffffff",
+    "special": "#FF5555",
+    "tag": "#FF5555",
+    "error": "#FF5555"
+  }
+}

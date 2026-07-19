@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotepadPlus>
+  <Theme name="Xscriptor Oslo">
+    <GlobalStyle bgColor="3F4451" fgColor="ABB2BF" bold="no" italic="no"/>
+    <WidgetStyle name="Global override" bgColor="3F4451" fgColor="ABB2BF"/>
+    <WidgetStyle name="Selected text colour" bgColor="4F5462" fgColor="ABB2BF"/>
+    <WidgetStyle name="Caret colour" fgColor="C162DE"/>
+    <WidgetStyle name="Line number margin" bgColor="3F4451" fgColor="959CA9"/>
+    <WidgetStyle name="Fold" bgColor="3F4451" fgColor="C162DE"/>
+    <WidgetStyle name="Current line" bgColor="444A56"/>
+    <!-- Syntax -->
+    <LexerType name="comment" fgColor="959CA9" italic="yes"/>
+    <LexerType name="commentline" fgColor="959CA9" italic="yes"/>
+    <LexerType name="string" fgColor="8CC265"/>
+    <LexerType name="number" fgColor="D18F52"/>
+    <LexerType name="keyword" fgColor="C162DE"/>
+    <LexerType name="type" fgColor="42B3C2"/>
+    <LexerType name="function" fgColor="4AA5F0"/>
+    <LexerType name="preprocessor" fgColor="FF616E"/>
+    <LexerType name="operator" fgColor="C162DE"/>
+    <LexerType name="variable" fgColor="ABB2BF"/>
+    <LexerType name="constant" fgColor="D18F52"/>
+  </Theme>
+</NotepadPlus>

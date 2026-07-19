@@ -1,0 +1,26 @@
+file_export_version=3.0
+// Xscriptor Lahabana
+instance/org.eclipse.ui.editors/backgroundColor=25,25,26
+instance/org.eclipse.ui.editors/foregroundColor=247,241,255
+instance/org.eclipse.ui.editors/selectionBackgroundColor=58,57,60
+instance/org.eclipse.ui.editors/selectionForegroundColor=247,241,255
+instance/org.eclipse.ui.editors/currentLineColor=36,36,37
+instance/org.eclipse.ui.editors/lineNumberColor=103,101,106
+instance/org.eclipse.ui.editors/printMarginColor=103,101,106
+instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=247,241,255
+instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=25,25,26
+instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackgroundColor=58,57,60
+instance/org.eclipse.ui.editors/AsynchronousColorSlave/selectionBackgroundColor.slave=58,57,60
+instance/org.eclipse.jdt.ui/JavaEditor/TokenConstantColor=229,255,157
+instance/org.eclipse.jdt.ui/JavaEditor/TokenKeywordColor=148,138,227
+instance/org.eclipse.jdt.ui/JavaEditor/TokenStringColor=123,216,143
+instance/org.eclipse.jdt.ui/JavaEditor/TokenCommentColor=103,101,106
+instance/org.eclipse.jdt.ui/JavaEditor/TokenTypeColor=90,212,230
+instance/org.eclipse.jdt.ui/JavaEditor/TokenMethodColor=253,147,83
+instance/org.eclipse.jdt.ui/JavaEditor/TokenParameterColor=253,147,83
+instance/org.eclipse.jdt.ui/JavaEditor/TokenAnnotationColor=252,97,141
+instance/org.eclipse.jdt.ui/JavaEditor/TokenNumberColor=229,255,157
+instance/org.eclipse.jdt.ui/JavaEditor/TokenOperatorColor=148,138,227
+instance/org.eclipse.jdt.ui/JavaEditor/TokenReturnKeywordColor=148,138,227
+instance/org.eclipse.jdt.ui/JavaEditor/TokenStaticMethodColor=253,147,83
+instance/org.eclipse.jdt.ui/JavaEditor/TokenStaticFieldColor=229,255,157

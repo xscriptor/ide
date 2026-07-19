@@ -1,0 +1,35 @@
+{
+  "name": "helsinki",
+  "comment": "Xscriptor Helsinki theme",
+  "colors": {
+    "background": "#f8fafe",
+    "foreground": "#544d40",
+    "lineNumber": "#8d8a82",
+    "cursorLine": "#f0f1f4",
+    "selection": "rgba(84, 77, 64, 0.15)",
+    "tab": "#f0f1f4",
+    "divider": "#8d8a82",
+    "statusline": "#f8fafe",
+    "statuslineprompt": "#3e9d21",
+    "color-column": "#f0f1f4",
+    "gutter": "#f8fafe"
+  },
+  "syntax": {
+    "comment": "#8d8a82",
+    "constant": "#2e70ad",
+    "number": "#2e70ad",
+    "string": "#733d9a",
+    "identifier": "#544d40",
+    "keyword": "#3e9d21",
+    "statement": "#3e9d21",
+    "type": "#bd4c3d",
+    "preproc": "#009e91",
+    "predefined": "#bd4c3d",
+    "symbol": "#544d40",
+    "function": "#b55a0f",
+    "variable": "#544d40",
+    "special": "#1faa9e",
+    "tag": "#1faa9e",
+    "error": "#1faa9e"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Lahabana",
+  "description": "Xscriptor Lahabana theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#19191a",
+    "foreground": "#f7f1ff",
+    "primary": "#948ae3",
+    "secondary": "#5ad4e6",
+    "accent": "#fd9353",
+    "success": "#7bd88f",
+    "warning": "#e5ff9d",
+    "error": "#fc618d",
+    "info": "#5ad4e6",
+    "muted": "#67656a",
+    "border": "#242425",
+    "surface": "#19191a",
+    "code": {
+      "comment": "#67656a",
+      "string": "#7bd88f",
+      "number": "#e5ff9d",
+      "keyword": "#948ae3",
+      "type": "#5ad4e6",
+      "function": "#fd9353",
+      "variable": "#f7f1ff",
+      "constant": "#e5ff9d",
+      "operator": "#948ae3",
+      "preprocessor": "#fc618d",
+      "tag": "#fc618d",
+      "attribute": "#e5ff9d"
+    }
+  }
+}

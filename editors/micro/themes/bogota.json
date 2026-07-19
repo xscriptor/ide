@@ -1,0 +1,35 @@
+{
+  "name": "bogota",
+  "comment": "Xscriptor Bogota theme",
+  "colors": {
+    "background": "#200b0a",
+    "foreground": "#f7f1ff",
+    "lineNumber": "#8c7e84",
+    "cursorLine": "#2b1616",
+    "selection": "rgba(247, 241, 255, 0.15)",
+    "tab": "#2b1616",
+    "divider": "#8c7e84",
+    "statusline": "#200b0a",
+    "statuslineprompt": "#ff9999",
+    "color-column": "#2b1616",
+    "gutter": "#200b0a"
+  },
+  "syntax": {
+    "comment": "#8c7e84",
+    "constant": "#ffed89",
+    "number": "#ffed89",
+    "string": "#7bd88f",
+    "identifier": "#f7f1ff",
+    "keyword": "#ff9999",
+    "statement": "#ff9999",
+    "type": "#47e6ff",
+    "preproc": "#fc618d",
+    "predefined": "#47e6ff",
+    "symbol": "#f7f1ff",
+    "function": "#47e6ff",
+    "variable": "#f7f1ff",
+    "special": "#fc618d",
+    "tag": "#fc618d",
+    "error": "#fc618d"
+  }
+}

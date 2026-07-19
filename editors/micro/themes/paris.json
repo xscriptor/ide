@@ -1,0 +1,35 @@
+{
+  "name": "paris",
+  "comment": "Xscriptor Paris theme",
+  "colors": {
+    "background": "#1a0a30",
+    "foreground": "#f7f1ff",
+    "lineNumber": "#c4bdff",
+    "cursorLine": "#25163a",
+    "selection": "rgba(247, 241, 255, 0.15)",
+    "tab": "#25163a",
+    "divider": "#c4bdff",
+    "statusline": "#1a0a30",
+    "statuslineprompt": "#c4bdff",
+    "color-column": "#25163a",
+    "gutter": "#1a0a30"
+  },
+  "syntax": {
+    "comment": "#c4bdff",
+    "constant": "#fce566",
+    "number": "#fce566",
+    "string": "#7bd88f",
+    "identifier": "#f7f1ff",
+    "keyword": "#c4bdff",
+    "statement": "#c4bdff",
+    "type": "#a3f3ff",
+    "preproc": "#fc618d",
+    "predefined": "#a3f3ff",
+    "symbol": "#f7f1ff",
+    "function": "#a3f3ff",
+    "variable": "#f7f1ff",
+    "special": "#fc618d",
+    "tag": "#fc618d",
+    "error": "#fc618d"
+  }
+}

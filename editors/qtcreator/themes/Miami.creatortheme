@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Miami">
+  <style name="Text" foreground="#f7f1ff" background="#000000"/>
+  <style name="LineNumber" foreground="#69676c" background="#000000"/>
+  <style name="CurrentLineNumber" foreground="#D36CFF" background="#0c0c0d"/>
+  <style name="Selection" background="#252426"/>
+  <style name="CurrentLine" background="#0c0c0d"/>
+  <style name="SearchResult" foreground="#000000" background="#FFD84C"/>
+  <style name="SearchScope" background="rgba(255, 216, 76, 0.3)"/>
+  <style name="Parentheses" foreground="#D36CFF" background="#0c0c0d"/>
+  <style name="VisualWhitespace" foreground="#69676c"/>
+  <style name="MismatchingParentheses" foreground="#FF4C8B"/>
+  <style name="Comment" foreground="#69676c" italic="true"/>
+  <style name="Keyword" foreground="#D36CFF"/>
+  <style name="Type" foreground="#47CFFF"/>
+  <style name="Function" foreground="#00FFA8"/>
+  <style name="String" foreground="#7FFFD4"/>
+  <style name="Number" foreground="#FFD84C"/>
+  <style name="Preprocessor" foreground="#FF4C8B"/>
+  <style name="Operator" foreground="#D36CFF"/>
+  <style name="Constant" foreground="#FFD84C"/>
+  <style name="Variable" foreground="#f7f1ff"/>
+</style-scheme>

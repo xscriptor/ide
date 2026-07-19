@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Oslo
+Author=Xscriptor
+Description=Xscriptor Oslo theme for Kate
+
+[Colors]
+Background=#3f4451
+Foreground=#abb2bf
+Selection=#4f5462
+Current Line=#444a56
+Line Numbers=#959ca9
+Cursor=#c162de
+Tab Marker=#959ca9
+Bracket=#c162de
+Word Wrap Marker=#959ca9
+Search Highlight=#d18f52
+
+[Editor Colors]
+Text=#abb2bf
+Text Background=#3f4451
+Highlight=#444a56
+Highlighted Bracket=#c162de
+Code Folding=#959ca9
+Line Numbers=#959ca9
+Selection=#4f5462
+Word Wrap=#959ca9
+Tab Marker=#959ca9
+
+[Syntax]
+Comment=#959ca9
+String=#8cc265
+Number=#d18f52
+Keyword=#c162de
+Type=#42b3c2
+Function=#4aa5f0
+Variable=#abb2bf
+Constant=#d18f52
+Preprocessor=#ff616e
+Operator=#c162de

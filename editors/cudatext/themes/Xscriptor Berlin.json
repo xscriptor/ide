@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Berlin",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#000000",
+      "EditorFont": "#cccccc",
+      "EditorSel": "#1f1f1f",
+      "EditorSelFocused": "#1f1f1f",
+      "EditorLineNumbers": "#666666",
+      "EditorLineNumbersActive": "#aaaaaa",
+      "EditorCaret": "#aaaaaa",
+      "EditorCurrentLine": "#0a0a0a",
+      "EditorBookmark": "#aaaaaa",
+      "TabBg": "#000000",
+      "TabActive": "#0a0a0a",
+      "TabPassive": "#000000",
+      "StatusLine": "#000000",
+      "ScrollBar": "#666666"
+    }
+  },
+  "lexer": {
+    "Comment": "#666666",
+    "String": "#bbbbbb",
+    "Number": "#dddddd",
+    "Keyword": "#aaaaaa",
+    "Identifier": "#cccccc",
+    "Function": "#888888",
+    "Class": "#cccccc",
+    "Type": "#cccccc",
+    "Preprocessor": "#bbbbbb",
+    "Constant": "#dddddd",
+    "Variable": "#cccccc",
+    "Operator": "#aaaaaa"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Helsinki",
+  "type": "theme",
+  "colors": {
+    "background": "#f8fafe",
+    "foreground": "#544d40",
+    "caret": "#3e9d21",
+    "selection": "#dfe0e2",
+    "line-number": "#8d8a82",
+    "cm-comment": "#8d8a82",
+    "cm-string": "#733d9a",
+    "cm-number": "#2e70ad",
+    "cm-keyword": "#3e9d21",
+    "cm-type": "#bd4c3d",
+    "cm-def": "#b55a0f",
+    "cm-variable": "#544d40",
+    "cm-operator": "#3e9d21",
+    "cm-meta": "#009e91",
+    "cm-builtin": "#bd4c3d",
+    "cm-tag": "#1faa9e",
+    "cm-attribute": "#2e70ad"
+  }
+}

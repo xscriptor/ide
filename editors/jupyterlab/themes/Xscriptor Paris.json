@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Paris",
+  "type": "theme",
+  "colors": {
+    "background": "#1a0a30",
+    "foreground": "#f7f1ff",
+    "caret": "#c4bdff",
+    "selection": "#3b2d4f",
+    "line-number": "#c4bdff",
+    "cm-comment": "#c4bdff",
+    "cm-string": "#7bd88f",
+    "cm-number": "#fce566",
+    "cm-keyword": "#c4bdff",
+    "cm-type": "#a3f3ff",
+    "cm-def": "#a3f3ff",
+    "cm-variable": "#f7f1ff",
+    "cm-operator": "#c4bdff",
+    "cm-meta": "#fc618d",
+    "cm-builtin": "#a3f3ff",
+    "cm-tag": "#fc618d",
+    "cm-attribute": "#fce566"
+  }
+}

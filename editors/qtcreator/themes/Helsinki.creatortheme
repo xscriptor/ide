@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Helsinki">
+  <style name="Text" foreground="#544d40" background="#f8fafe"/>
+  <style name="LineNumber" foreground="#8d8a82" background="#f8fafe"/>
+  <style name="CurrentLineNumber" foreground="#3e9d21" background="#f0f1f4"/>
+  <style name="Selection" background="#dfe0e2"/>
+  <style name="CurrentLine" background="#f0f1f4"/>
+  <style name="SearchResult" foreground="#f8fafe" background="#2e70ad"/>
+  <style name="SearchScope" background="rgba(46, 112, 173, 0.3)"/>
+  <style name="Parentheses" foreground="#3e9d21" background="#f0f1f4"/>
+  <style name="VisualWhitespace" foreground="#8d8a82"/>
+  <style name="MismatchingParentheses" foreground="#1faa9e"/>
+  <style name="Comment" foreground="#8d8a82" italic="true"/>
+  <style name="Keyword" foreground="#3e9d21"/>
+  <style name="Type" foreground="#bd4c3d"/>
+  <style name="Function" foreground="#b55a0f"/>
+  <style name="String" foreground="#733d9a"/>
+  <style name="Number" foreground="#2e70ad"/>
+  <style name="Preprocessor" foreground="#009e91"/>
+  <style name="Operator" foreground="#3e9d21"/>
+  <style name="Constant" foreground="#2e70ad"/>
+  <style name="Variable" foreground="#544d40"/>
+</style-scheme>

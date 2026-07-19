@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Paris",
+  "description": "Xscriptor Paris theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#1a0a30",
+    "foreground": "#f7f1ff",
+    "primary": "#c4bdff",
+    "secondary": "#a3f3ff",
+    "accent": "#a3f3ff",
+    "success": "#7bd88f",
+    "warning": "#fce566",
+    "error": "#fc618d",
+    "info": "#a3f3ff",
+    "muted": "#c4bdff",
+    "border": "#25163a",
+    "surface": "#1a0a30",
+    "code": {
+      "comment": "#c4bdff",
+      "string": "#7bd88f",
+      "number": "#fce566",
+      "keyword": "#c4bdff",
+      "type": "#a3f3ff",
+      "function": "#a3f3ff",
+      "variable": "#f7f1ff",
+      "constant": "#fce566",
+      "operator": "#c4bdff",
+      "preprocessor": "#fc618d",
+      "tag": "#fc618d",
+      "attribute": "#fce566"
+    }
+  }
+}

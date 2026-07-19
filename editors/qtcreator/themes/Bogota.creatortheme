@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Bogota">
+  <style name="Text" foreground="#f7f1ff" background="#200b0a"/>
+  <style name="LineNumber" foreground="#8c7e84" background="#200b0a"/>
+  <style name="CurrentLineNumber" foreground="#ff9999" background="#2b1616"/>
+  <style name="Selection" background="#402e2f"/>
+  <style name="CurrentLine" background="#2b1616"/>
+  <style name="SearchResult" foreground="#200b0a" background="#ffed89"/>
+  <style name="SearchScope" background="rgba(255, 237, 137, 0.3)"/>
+  <style name="Parentheses" foreground="#ff9999" background="#2b1616"/>
+  <style name="VisualWhitespace" foreground="#8c7e84"/>
+  <style name="MismatchingParentheses" foreground="#fc618d"/>
+  <style name="Comment" foreground="#8c7e84" italic="true"/>
+  <style name="Keyword" foreground="#ff9999"/>
+  <style name="Type" foreground="#47e6ff"/>
+  <style name="Function" foreground="#47e6ff"/>
+  <style name="String" foreground="#7bd88f"/>
+  <style name="Number" foreground="#ffed89"/>
+  <style name="Preprocessor" foreground="#fc618d"/>
+  <style name="Operator" foreground="#ff9999"/>
+  <style name="Constant" foreground="#ffed89"/>
+  <style name="Variable" foreground="#f7f1ff"/>
+</style-scheme>

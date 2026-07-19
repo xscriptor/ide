@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Helsinki
+Description=Xscriptor Helsinki theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#f8fafe
+caret=0;0;0;
+caret0=62;157;33
+current_line=#f0f1f4
+line_numbers=#8d8a82
+selection=#dfe0e2
+
+[NamedStyles]
+comment=141;138;130,false,true,false,false
+commentline=141;138;130,false,true,false,false
+commentdoc=141;138;130,false,true,false,false
+commentdockeyword=141;138;130,false,true,false,false
+string=115;61;154,false,false,false,false
+number=46;112;173,false,false,false,false
+keyword=62;157;33,false,false,false,false
+type=189;76;61,false,false,false,false
+function=181;90;15,false,false,false,false
+preprocessor=0;158;145,false,false,false,false
+constant=46;112;173,false,false,false,false
+variable=84;77;64,false,false,false,false
+operator=62;157;33,false,false,false,false

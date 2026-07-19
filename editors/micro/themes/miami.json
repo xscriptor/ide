@@ -1,0 +1,35 @@
+{
+  "name": "miami",
+  "comment": "Xscriptor Miami theme",
+  "colors": {
+    "background": "#000000",
+    "foreground": "#f7f1ff",
+    "lineNumber": "#69676c",
+    "cursorLine": "#0c0c0d",
+    "selection": "rgba(247, 241, 255, 0.15)",
+    "tab": "#0c0c0d",
+    "divider": "#69676c",
+    "statusline": "#000000",
+    "statuslineprompt": "#D36CFF",
+    "color-column": "#0c0c0d",
+    "gutter": "#000000"
+  },
+  "syntax": {
+    "comment": "#69676c",
+    "constant": "#FFD84C",
+    "number": "#FFD84C",
+    "string": "#7FFFD4",
+    "identifier": "#f7f1ff",
+    "keyword": "#D36CFF",
+    "statement": "#D36CFF",
+    "type": "#47CFFF",
+    "preproc": "#FF4C8B",
+    "predefined": "#47CFFF",
+    "symbol": "#f7f1ff",
+    "function": "#00FFA8",
+    "variable": "#f7f1ff",
+    "special": "#FF4C8B",
+    "tag": "#FF4C8B",
+    "error": "#FF4C8B"
+  }
+}

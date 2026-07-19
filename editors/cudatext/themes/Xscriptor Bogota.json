@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Bogota",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#200b0a",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#402e2f",
+      "EditorSelFocused": "#402e2f",
+      "EditorLineNumbers": "#8c7e84",
+      "EditorLineNumbersActive": "#ff9999",
+      "EditorCaret": "#ff9999",
+      "EditorCurrentLine": "#2b1616",
+      "EditorBookmark": "#ff9999",
+      "TabBg": "#200b0a",
+      "TabActive": "#2b1616",
+      "TabPassive": "#200b0a",
+      "StatusLine": "#200b0a",
+      "ScrollBar": "#8c7e84"
+    }
+  },
+  "lexer": {
+    "Comment": "#8c7e84",
+    "String": "#7bd88f",
+    "Number": "#ffed89",
+    "Keyword": "#ff9999",
+    "Identifier": "#f7f1ff",
+    "Function": "#47e6ff",
+    "Class": "#47e6ff",
+    "Type": "#47e6ff",
+    "Preprocessor": "#fc618d",
+    "Constant": "#ffed89",
+    "Variable": "#f7f1ff",
+    "Operator": "#ff9999"
+  }
+}

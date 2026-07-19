@@ -1,0 +1,30 @@
+<UserSettings>
+  <ApplicationIdentity version="17.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment">
+      <Category name="FontsAndColors" Category="{1EDA5DD4-927A-43A7-810E-7FD247D0DA11}" Package="{F5E7E717-1221-4B36-9B1C-5A85AD223A5F}" RegisteredName="FontsAndColors" PackageName="Visual Studio Environment">
+        <Property name="Version">2.0</Property>
+        <Property name="ThemeName">Xscriptor Praha</Property>
+        <Property name="IsDirty">true</Property>
+        <Items>
+          <Item Name="Plain Text" Background="0x001A1A1A" Foreground="0x00FFFFFF"/>
+          <Item Name="Selected Text" Background="0x003C3C3C"/>
+          <Item Name="Inactive Selected Text" Background="0x002C2C2C"/>
+          <Item Name="CurrentLine" Background="0x00252525"/>
+          <Item Name="Line Numbers" Foreground="0x00A47262"/>
+          <Item Name="Comment" Foreground="0x00A47262"/>
+          <Item Name="String" Foreground="0x00A0E6B8"/>
+          <Item Name="String (C# @ Verbatim)" Foreground="0x00A0E6B8"/>
+          <Item Name="Number" Foreground="0x00A3E4FF"/>
+          <Item Name="Keyword" Foreground="0x00A29AFF"/>
+          <Item Name="Type" Foreground="0x00FDE98B"/>
+          <Item Name="User Types" Foreground="0x00FDE98B"/>
+          <Item Name="Identifier" Foreground="0x00FFFFFF"/>
+          <Item Name="Operator" Foreground="0x00A29AFF"/>
+          <Item Name="Preprocessor Keyword" Foreground="0x006E6EFF"/>
+          <Item Name="Excluded Code" Foreground="0x00A47262"/>
+        </Items>
+      </Category>
+    </ToolsOptionsCategory>
+  </ToolsOptions>
+</UserSettings>

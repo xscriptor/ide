@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Berlin
+Author=Xscriptor
+Description=Xscriptor Berlin theme for Kate
+
+[Colors]
+Background=#000000
+Foreground=#cccccc
+Selection=#1f1f1f
+Current Line=#0a0a0a
+Line Numbers=#666666
+Cursor=#aaaaaa
+Tab Marker=#666666
+Bracket=#aaaaaa
+Word Wrap Marker=#666666
+Search Highlight=#dddddd
+
+[Editor Colors]
+Text=#cccccc
+Text Background=#000000
+Highlight=#0a0a0a
+Highlighted Bracket=#aaaaaa
+Code Folding=#666666
+Line Numbers=#666666
+Selection=#1f1f1f
+Word Wrap=#666666
+Tab Marker=#666666
+
+[Syntax]
+Comment=#666666
+String=#bbbbbb
+Number=#dddddd
+Keyword=#aaaaaa
+Type=#cccccc
+Function=#888888
+Variable=#cccccc
+Constant=#dddddd
+Preprocessor=#bbbbbb
+Operator=#aaaaaa

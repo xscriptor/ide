@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Lahabana">
+  <style name="Text" foreground="#f7f1ff" background="#19191a"/>
+  <style name="LineNumber" foreground="#67656a" background="#19191a"/>
+  <style name="CurrentLineNumber" foreground="#948ae3" background="#242425"/>
+  <style name="Selection" background="#3a393c"/>
+  <style name="CurrentLine" background="#242425"/>
+  <style name="SearchResult" foreground="#19191a" background="#e5ff9d"/>
+  <style name="SearchScope" background="rgba(229, 255, 157, 0.3)"/>
+  <style name="Parentheses" foreground="#948ae3" background="#242425"/>
+  <style name="VisualWhitespace" foreground="#67656a"/>
+  <style name="MismatchingParentheses" foreground="#fc618d"/>
+  <style name="Comment" foreground="#67656a" italic="true"/>
+  <style name="Keyword" foreground="#948ae3"/>
+  <style name="Type" foreground="#5ad4e6"/>
+  <style name="Function" foreground="#fd9353"/>
+  <style name="String" foreground="#7bd88f"/>
+  <style name="Number" foreground="#e5ff9d"/>
+  <style name="Preprocessor" foreground="#fc618d"/>
+  <style name="Operator" foreground="#948ae3"/>
+  <style name="Constant" foreground="#e5ff9d"/>
+  <style name="Variable" foreground="#f7f1ff"/>
+</style-scheme>

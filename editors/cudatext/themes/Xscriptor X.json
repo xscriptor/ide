@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor X",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#050505",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#29282a",
+      "EditorSelFocused": "#29282a",
+      "EditorLineNumbers": "#7e7b82",
+      "EditorLineNumbersActive": "#948ae3",
+      "EditorCaret": "#948ae3",
+      "EditorCurrentLine": "#111112",
+      "EditorBookmark": "#948ae3",
+      "TabBg": "#050505",
+      "TabActive": "#111112",
+      "TabPassive": "#0a0a0a",
+      "StatusLine": "#0a0a0a",
+      "ScrollBar": "#7e7b82"
+    }
+  },
+  "lexer": {
+    "Comment": "#7e7b82",
+    "String": "#7bd88f",
+    "Number": "#fce566",
+    "Keyword": "#948ae3",
+    "Identifier": "#f7f1ff",
+    "Function": "#fd9353",
+    "Class": "#5ad4e6",
+    "Type": "#5ad4e6",
+    "Preprocessor": "#fc618d",
+    "Constant": "#fce566",
+    "Variable": "#f7f1ff",
+    "Operator": "#948ae3"
+  }
+}

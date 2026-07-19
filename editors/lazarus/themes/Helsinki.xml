@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LazarusSyntaxTree>
+  <Version>1</Version>
+  <ThemeName>Xscriptor Helsinki</ThemeName>
+  <Author>Xscriptor</Author>
+  <TypeHighlights>
+    <TypeHighlight Type="Default" Foreground="#544d40" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Comment" Foreground="#8d8a82" Background="#f8fafe" Style="Italic"/>
+    <TypeHighlight Type="String" Foreground="#733d9a" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Number" Foreground="#2e70ad" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Keyword" Foreground="#3e9d21" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Type" Foreground="#bd4c3d" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Function" Foreground="#b55a0f" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Preprocessor" Foreground="#009e91" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Constant" Foreground="#2e70ad" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Variable" Foreground="#544d40" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Operator" Foreground="#3e9d21" Background="#f8fafe" Style=""/>
+    <TypeHighlight Type="Selection" Background="#dfe0e2" Style=""/>
+    <TypeHighlight Type="CurrentLine" Background="#f0f1f4" Style=""/>
+  </TypeHighlights>
+</LazarusSyntaxTree>

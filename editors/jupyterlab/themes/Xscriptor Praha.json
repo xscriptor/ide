@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Praha",
+  "type": "theme",
+  "colors": {
+    "background": "#1a1a1a",
+    "foreground": "#ffffff",
+    "caret": "#FF9AA2",
+    "selection": "#3c3c3c",
+    "line-number": "#6272A4",
+    "cm-comment": "#6272A4",
+    "cm-string": "#B8E6A0",
+    "cm-number": "#FFE4A3",
+    "cm-keyword": "#FF9AA2",
+    "cm-type": "#8BE9FD",
+    "cm-def": "#BD93F9",
+    "cm-variable": "#ffffff",
+    "cm-operator": "#FF9AA2",
+    "cm-meta": "#FF6E6E",
+    "cm-builtin": "#8BE9FD",
+    "cm-tag": "#FF5555",
+    "cm-attribute": "#FFE4A3"
+  }
+}

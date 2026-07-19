@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Tokio",
+  "type": "theme",
+  "colors": {
+    "background": "#1c1c1d",
+    "foreground": "#f7f1ff",
+    "caret": "#948ae3",
+    "selection": "#3d3c3f",
+    "line-number": "#69676c",
+    "cm-comment": "#69676c",
+    "cm-string": "#7bd88f",
+    "cm-number": "#fce566",
+    "cm-keyword": "#948ae3",
+    "cm-type": "#5ad4e6",
+    "cm-def": "#fd9353",
+    "cm-variable": "#f7f1ff",
+    "cm-operator": "#948ae3",
+    "cm-meta": "#fc618d",
+    "cm-builtin": "#5ad4e6",
+    "cm-tag": "#fc618d",
+    "cm-attribute": "#fce566"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Tokio",
+  "description": "Xscriptor Tokio theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#1c1c1d",
+    "foreground": "#f7f1ff",
+    "primary": "#948ae3",
+    "secondary": "#5ad4e6",
+    "accent": "#fd9353",
+    "success": "#7bd88f",
+    "warning": "#fce566",
+    "error": "#fc618d",
+    "info": "#5ad4e6",
+    "muted": "#69676c",
+    "border": "#272728",
+    "surface": "#1c1c1d",
+    "code": {
+      "comment": "#69676c",
+      "string": "#7bd88f",
+      "number": "#fce566",
+      "keyword": "#948ae3",
+      "type": "#5ad4e6",
+      "function": "#fd9353",
+      "variable": "#f7f1ff",
+      "constant": "#fce566",
+      "operator": "#948ae3",
+      "preprocessor": "#fc618d",
+      "tag": "#fc618d",
+      "attribute": "#fce566"
+    }
+  }
+}
