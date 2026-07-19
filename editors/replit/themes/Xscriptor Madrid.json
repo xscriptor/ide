@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Madrid",
+  "description": "Xscriptor Madrid theme for Replit",
+  "dark": false,
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1a1a1a",
+    "primary": "#4d2699",
+    "secondary": "#007a9e",
+    "accent": "#007a9e",
+    "success": "#007a28",
+    "warning": "#8a6408",
+    "error": "#990026",
+    "info": "#007a9e",
+    "muted": "#4d4d4d",
+    "border": "#efefef",
+    "surface": "#fafafa",
+    "code": {
+      "comment": "#4d4d4d",
+      "string": "#007a28",
+      "number": "#8a6408",
+      "keyword": "#4d2699",
+      "type": "#007a9e",
+      "function": "#007a9e",
+      "variable": "#1a1a1a",
+      "constant": "#8a6408",
+      "operator": "#4d2699",
+      "preprocessor": "#990026",
+      "tag": "#990026",
+      "attribute": "#8a6408"
+    }
+  }
+}

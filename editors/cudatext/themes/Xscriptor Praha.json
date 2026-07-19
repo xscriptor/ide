@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Praha",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#1a1a1a",
+      "EditorFont": "#ffffff",
+      "EditorSel": "#3c3c3c",
+      "EditorSelFocused": "#3c3c3c",
+      "EditorLineNumbers": "#6272A4",
+      "EditorLineNumbersActive": "#FF9AA2",
+      "EditorCaret": "#FF9AA2",
+      "EditorCurrentLine": "#252525",
+      "EditorBookmark": "#FF9AA2",
+      "TabBg": "#1a1a1a",
+      "TabActive": "#252525",
+      "TabPassive": "#1A1A1A",
+      "StatusLine": "#1A1A1A",
+      "ScrollBar": "#6272A4"
+    }
+  },
+  "lexer": {
+    "Comment": "#6272A4",
+    "String": "#B8E6A0",
+    "Number": "#FFE4A3",
+    "Keyword": "#FF9AA2",
+    "Identifier": "#ffffff",
+    "Function": "#BD93F9",
+    "Class": "#8BE9FD",
+    "Type": "#8BE9FD",
+    "Preprocessor": "#FF6E6E",
+    "Constant": "#FFE4A3",
+    "Variable": "#ffffff",
+    "Operator": "#FF9AA2"
+  }
+}

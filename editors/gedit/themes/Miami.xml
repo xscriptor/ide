@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme SYSTEM "gedit-color-scheme.dtd">
+<theme>
+  <name>Xscriptor Miami</name>
+  <author>Xscriptor</author>
+  <description>Xscriptor Miami theme for Gedit</description>
+  <color name="background" value="#000000"/>
+  <color name="foreground" value="#f7f1ff"/>
+  <color name="cursor" value="#D36CFF"/>
+  <color name="selection" value="rgba(247, 241, 255, 0.15)"/>
+  <color name="current_line" value="#0c0c0d"/>
+  <color name="line_numbers" value="#69676c"/>
+  <color name="bracket_match" value="#D36CFF"/>
+  <color name="search_match" value="#FFD84C"/>
+  <!-- Styles -->
+  <style name="text" foreground="#f7f1ff" background="#000000"/>
+  <style name="cursor" foreground="#D36CFF"/>
+  <style name="current-line" background="#0c0c0d"/>
+  <style name="line-numbers" foreground="#69676c"/>
+  <style name="selection" background="rgba(247, 241, 255, 0.15)"/>
+  <style name="search-match" foreground="#000000" background="#FFD84C"/>
+  <!-- Syntax -->
+  <style name="comment" foreground="#69676c" italic="true"/>
+  <style name="string" foreground="#7FFFD4"/>
+  <style name="constant" foreground="#FFD84C"/>
+  <style name="constant.numeric" foreground="#FFD84C"/>
+  <style name="variable" foreground="#f7f1ff"/>
+  <style name="keyword" foreground="#D36CFF"/>
+  <style name="type" foreground="#47CFFF"/>
+  <style name="function" foreground="#00FFA8"/>
+  <style name="preprocessor" foreground="#FF4C8B"/>
+  <style name="specials" foreground="#FF4C8B"/>
+  <style name="def:linenumber" foreground="#69676c"/>
+</theme>

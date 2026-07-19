@@ -1,0 +1,26 @@
+{
+  "name": "Xscriptor Berlin",
+  "theme": {
+    "background": "#000000",
+    "foreground": "#cccccc",
+    "caret": "#aaaaaa",
+    "selection": "#1f1f1f",
+    "line_numbers": "#666666",
+    "current_line": "#0a0a0a",
+    "fold": "#666666",
+    "matching_bracket": "#aaaaaa",
+    "bookmark": "#aaaaaa",
+    "breakpoint": "#999999",
+    "syntax": {
+      "comment": "#666666",
+      "string": "#bbbbbb",
+      "number": "#dddddd",
+      "keyword": "#aaaaaa",
+      "type": "#cccccc",
+      "function": "#888888",
+      "preprocessor": "#bbbbbb",
+      "variable": "#cccccc",
+      "constant": "#dddddd"
+    }
+  }
+}

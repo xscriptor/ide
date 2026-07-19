@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotepadPlus>
+  <Theme name="Xscriptor Madrid">
+    <GlobalStyle bgColor="FAFAFA" fgColor="1A1A1A" bold="no" italic="no"/>
+    <WidgetStyle name="Global override" bgColor="FAFAFA" fgColor="1A1A1A"/>
+    <WidgetStyle name="Selected text colour" bgColor="D8D8D8" fgColor="1A1A1A"/>
+    <WidgetStyle name="Caret colour" fgColor="4D2699"/>
+    <WidgetStyle name="Line number margin" bgColor="FAFAFA" fgColor="4D4D4D"/>
+    <WidgetStyle name="Fold" bgColor="FAFAFA" fgColor="4D2699"/>
+    <WidgetStyle name="Current line" bgColor="EFEFEF"/>
+    <!-- Syntax -->
+    <LexerType name="comment" fgColor="4D4D4D" italic="yes"/>
+    <LexerType name="commentline" fgColor="4D4D4D" italic="yes"/>
+    <LexerType name="string" fgColor="007A28"/>
+    <LexerType name="number" fgColor="8A6408"/>
+    <LexerType name="keyword" fgColor="4D2699"/>
+    <LexerType name="type" fgColor="007A9E"/>
+    <LexerType name="function" fgColor="007A9E"/>
+    <LexerType name="preprocessor" fgColor="990026"/>
+    <LexerType name="operator" fgColor="4D2699"/>
+    <LexerType name="variable" fgColor="1A1A1A"/>
+    <LexerType name="constant" fgColor="8A6408"/>
+  </Theme>
+</NotepadPlus>

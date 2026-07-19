@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Madrid",
+  "type": "theme",
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1a1a1a",
+    "caret": "#4d2699",
+    "selection": "#d8d8d8",
+    "line-number": "#4d4d4d",
+    "cm-comment": "#4d4d4d",
+    "cm-string": "#007a28",
+    "cm-number": "#8a6408",
+    "cm-keyword": "#4d2699",
+    "cm-type": "#007a9e",
+    "cm-def": "#007a9e",
+    "cm-variable": "#1a1a1a",
+    "cm-operator": "#4d2699",
+    "cm-meta": "#990026",
+    "cm-builtin": "#007a9e",
+    "cm-tag": "#990026",
+    "cm-attribute": "#8a6408"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "lahabana",
+  "comment": "Xscriptor Lahabana theme",
+  "colors": {
+    "background": "#19191a",
+    "foreground": "#f7f1ff",
+    "lineNumber": "#67656a",
+    "cursorLine": "#242425",
+    "selection": "rgba(247, 241, 255, 0.15)",
+    "tab": "#242425",
+    "divider": "#67656a",
+    "statusline": "#19191a",
+    "statuslineprompt": "#948ae3",
+    "color-column": "#242425",
+    "gutter": "#19191a"
+  },
+  "syntax": {
+    "comment": "#67656a",
+    "constant": "#e5ff9d",
+    "number": "#e5ff9d",
+    "string": "#7bd88f",
+    "identifier": "#f7f1ff",
+    "keyword": "#948ae3",
+    "statement": "#948ae3",
+    "type": "#5ad4e6",
+    "preproc": "#fc618d",
+    "predefined": "#5ad4e6",
+    "symbol": "#f7f1ff",
+    "function": "#fd9353",
+    "variable": "#f7f1ff",
+    "special": "#fc618d",
+    "tag": "#fc618d",
+    "error": "#fc618d"
+  }
+}

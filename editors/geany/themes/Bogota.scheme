@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Bogota
+Description=Xscriptor Bogota theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#200b0a
+caret=0;0;0;
+caret0=255;153;153
+current_line=#2b1616
+line_numbers=#8c7e84
+selection=#402e2f
+
+[NamedStyles]
+comment=140;126;132,false,true,false,false
+commentline=140;126;132,false,true,false,false
+commentdoc=140;126;132,false,true,false,false
+commentdockeyword=140;126;132,false,true,false,false
+string=123;216;143,false,false,false,false
+number=255;237;137,false,false,false,false
+keyword=255;153;153,false,false,false,false
+type=71;230;255,false,false,false,false
+function=71;230;255,false,false,false,false
+preprocessor=252;97;141,false,false,false,false
+constant=255;237;137,false,false,false,false
+variable=247;241;255,false,false,false,false
+operator=255;153;153,false,false,false,false

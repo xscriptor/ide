@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Tokio
+Author=Xscriptor
+Description=Xscriptor Tokio theme for Kate
+
+[Colors]
+Background=#1c1c1d
+Foreground=#f7f1ff
+Selection=#3d3c3f
+Current Line=#272728
+Line Numbers=#69676c
+Cursor=#948ae3
+Tab Marker=#69676c
+Bracket=#948ae3
+Word Wrap Marker=#69676c
+Search Highlight=#fce566
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#1c1c1d
+Highlight=#272728
+Highlighted Bracket=#948ae3
+Code Folding=#69676c
+Line Numbers=#69676c
+Selection=#3d3c3f
+Word Wrap=#69676c
+Tab Marker=#69676c
+
+[Syntax]
+Comment=#69676c
+String=#7bd88f
+Number=#fce566
+Keyword=#948ae3
+Type=#5ad4e6
+Function=#fd9353
+Variable=#f7f1ff
+Constant=#fce566
+Preprocessor=#fc618d
+Operator=#948ae3

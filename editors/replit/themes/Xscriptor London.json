@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor London",
+  "description": "Xscriptor London theme for Replit",
+  "dark": false,
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#333333",
+    "primary": "#777777",
+    "secondary": "#888888",
+    "accent": "#666666",
+    "success": "#444444",
+    "warning": "#555555",
+    "error": "#333333",
+    "info": "#888888",
+    "muted": "#333333",
+    "border": "#f5f5f5",
+    "surface": "#ffffff",
+    "code": {
+      "comment": "#333333",
+      "string": "#444444",
+      "number": "#555555",
+      "keyword": "#777777",
+      "type": "#888888",
+      "function": "#666666",
+      "variable": "#333333",
+      "constant": "#555555",
+      "operator": "#777777",
+      "preprocessor": "#444444",
+      "tag": "#333333",
+      "attribute": "#555555"
+    }
+  }
+}

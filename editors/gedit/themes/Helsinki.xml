@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme SYSTEM "gedit-color-scheme.dtd">
+<theme>
+  <name>Xscriptor Helsinki</name>
+  <author>Xscriptor</author>
+  <description>Xscriptor Helsinki theme for Gedit</description>
+  <color name="background" value="#f8fafe"/>
+  <color name="foreground" value="#544d40"/>
+  <color name="cursor" value="#3e9d21"/>
+  <color name="selection" value="rgba(84, 77, 64, 0.15)"/>
+  <color name="current_line" value="#f0f1f4"/>
+  <color name="line_numbers" value="#8d8a82"/>
+  <color name="bracket_match" value="#3e9d21"/>
+  <color name="search_match" value="#2e70ad"/>
+  <!-- Styles -->
+  <style name="text" foreground="#544d40" background="#f8fafe"/>
+  <style name="cursor" foreground="#3e9d21"/>
+  <style name="current-line" background="#f0f1f4"/>
+  <style name="line-numbers" foreground="#8d8a82"/>
+  <style name="selection" background="rgba(84, 77, 64, 0.15)"/>
+  <style name="search-match" foreground="#f8fafe" background="#2e70ad"/>
+  <!-- Syntax -->
+  <style name="comment" foreground="#8d8a82" italic="true"/>
+  <style name="string" foreground="#733d9a"/>
+  <style name="constant" foreground="#2e70ad"/>
+  <style name="constant.numeric" foreground="#2e70ad"/>
+  <style name="variable" foreground="#544d40"/>
+  <style name="keyword" foreground="#3e9d21"/>
+  <style name="type" foreground="#bd4c3d"/>
+  <style name="function" foreground="#b55a0f"/>
+  <style name="preprocessor" foreground="#009e91"/>
+  <style name="specials" foreground="#1faa9e"/>
+  <style name="def:linenumber" foreground="#8d8a82"/>
+</theme>

@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Helsinki",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#f8fafe",
+      "EditorFont": "#544d40",
+      "EditorSel": "#dfe0e2",
+      "EditorSelFocused": "#dfe0e2",
+      "EditorLineNumbers": "#8d8a82",
+      "EditorLineNumbersActive": "#3e9d21",
+      "EditorCaret": "#3e9d21",
+      "EditorCurrentLine": "#f0f1f4",
+      "EditorBookmark": "#3e9d21",
+      "TabBg": "#f8fafe",
+      "TabActive": "#f0f1f4",
+      "TabPassive": "#f8fafe",
+      "StatusLine": "#f8fafe",
+      "ScrollBar": "#8d8a82"
+    }
+  },
+  "lexer": {
+    "Comment": "#8d8a82",
+    "String": "#733d9a",
+    "Number": "#2e70ad",
+    "Keyword": "#3e9d21",
+    "Identifier": "#544d40",
+    "Function": "#b55a0f",
+    "Class": "#bd4c3d",
+    "Type": "#bd4c3d",
+    "Preprocessor": "#009e91",
+    "Constant": "#2e70ad",
+    "Variable": "#544d40",
+    "Operator": "#3e9d21"
+  }
+}

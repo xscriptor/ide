@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Helsinki
+Author=Xscriptor
+Description=Xscriptor Helsinki theme for Kate
+
+[Colors]
+Background=#f8fafe
+Foreground=#544d40
+Selection=#dfe0e2
+Current Line=#f0f1f4
+Line Numbers=#8d8a82
+Cursor=#3e9d21
+Tab Marker=#8d8a82
+Bracket=#3e9d21
+Word Wrap Marker=#8d8a82
+Search Highlight=#2e70ad
+
+[Editor Colors]
+Text=#544d40
+Text Background=#f8fafe
+Highlight=#f0f1f4
+Highlighted Bracket=#3e9d21
+Code Folding=#8d8a82
+Line Numbers=#8d8a82
+Selection=#dfe0e2
+Word Wrap=#8d8a82
+Tab Marker=#8d8a82
+
+[Syntax]
+Comment=#8d8a82
+String=#733d9a
+Number=#2e70ad
+Keyword=#3e9d21
+Type=#bd4c3d
+Function=#b55a0f
+Variable=#544d40
+Constant=#2e70ad
+Preprocessor=#009e91
+Operator=#3e9d21

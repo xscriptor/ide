@@ -1,0 +1,35 @@
+{
+  "name": "madrid",
+  "comment": "Xscriptor Madrid theme",
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1a1a1a",
+    "lineNumber": "#4d4d4d",
+    "cursorLine": "#efefef",
+    "selection": "rgba(26, 26, 26, 0.15)",
+    "tab": "#efefef",
+    "divider": "#4d4d4d",
+    "statusline": "#fafafa",
+    "statuslineprompt": "#4d2699",
+    "color-column": "#efefef",
+    "gutter": "#fafafa"
+  },
+  "syntax": {
+    "comment": "#4d4d4d",
+    "constant": "#8a6408",
+    "number": "#8a6408",
+    "string": "#007a28",
+    "identifier": "#1a1a1a",
+    "keyword": "#4d2699",
+    "statement": "#4d2699",
+    "type": "#007a9e",
+    "preproc": "#990026",
+    "predefined": "#007a9e",
+    "symbol": "#1a1a1a",
+    "function": "#007a9e",
+    "variable": "#1a1a1a",
+    "special": "#990026",
+    "tag": "#990026",
+    "error": "#990026"
+  }
+}

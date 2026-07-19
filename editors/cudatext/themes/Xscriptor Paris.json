@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Paris",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#1a0a30",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#3b2d4f",
+      "EditorSelFocused": "#3b2d4f",
+      "EditorLineNumbers": "#c4bdff",
+      "EditorLineNumbersActive": "#c4bdff",
+      "EditorCaret": "#c4bdff",
+      "EditorCurrentLine": "#25163a",
+      "EditorBookmark": "#c4bdff",
+      "TabBg": "#1a0a30",
+      "TabActive": "#25163a",
+      "TabPassive": "#1a0a30",
+      "StatusLine": "#1a0a30",
+      "ScrollBar": "#c4bdff"
+    }
+  },
+  "lexer": {
+    "Comment": "#c4bdff",
+    "String": "#7bd88f",
+    "Number": "#fce566",
+    "Keyword": "#c4bdff",
+    "Identifier": "#f7f1ff",
+    "Function": "#a3f3ff",
+    "Class": "#a3f3ff",
+    "Type": "#a3f3ff",
+    "Preprocessor": "#fc618d",
+    "Constant": "#fce566",
+    "Variable": "#f7f1ff",
+    "Operator": "#c4bdff"
+  }
+}

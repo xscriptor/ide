@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Tokio",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#1c1c1d",
+      "EditorFont": "#f7f1ff",
+      "EditorSel": "#3d3c3f",
+      "EditorSelFocused": "#3d3c3f",
+      "EditorLineNumbers": "#69676c",
+      "EditorLineNumbersActive": "#948ae3",
+      "EditorCaret": "#948ae3",
+      "EditorCurrentLine": "#272728",
+      "EditorBookmark": "#948ae3",
+      "TabBg": "#1c1c1d",
+      "TabActive": "#272728",
+      "TabPassive": "#1c1c1d",
+      "StatusLine": "#1c1c1d",
+      "ScrollBar": "#69676c"
+    }
+  },
+  "lexer": {
+    "Comment": "#69676c",
+    "String": "#7bd88f",
+    "Number": "#fce566",
+    "Keyword": "#948ae3",
+    "Identifier": "#f7f1ff",
+    "Function": "#fd9353",
+    "Class": "#5ad4e6",
+    "Type": "#5ad4e6",
+    "Preprocessor": "#fc618d",
+    "Constant": "#fce566",
+    "Variable": "#f7f1ff",
+    "Operator": "#948ae3"
+  }
+}

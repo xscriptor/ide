@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Praha">
+  <style name="Text" foreground="#ffffff" background="#1a1a1a"/>
+  <style name="LineNumber" foreground="#6272A4" background="#1a1a1a"/>
+  <style name="CurrentLineNumber" foreground="#FF9AA2" background="#252525"/>
+  <style name="Selection" background="#3c3c3c"/>
+  <style name="CurrentLine" background="#252525"/>
+  <style name="SearchResult" foreground="#1a1a1a" background="#FFE4A3"/>
+  <style name="SearchScope" background="rgba(255, 228, 163, 0.3)"/>
+  <style name="Parentheses" foreground="#FF9AA2" background="#252525"/>
+  <style name="VisualWhitespace" foreground="#6272A4"/>
+  <style name="MismatchingParentheses" foreground="#FF5555"/>
+  <style name="Comment" foreground="#6272A4" italic="true"/>
+  <style name="Keyword" foreground="#FF9AA2"/>
+  <style name="Type" foreground="#8BE9FD"/>
+  <style name="Function" foreground="#BD93F9"/>
+  <style name="String" foreground="#B8E6A0"/>
+  <style name="Number" foreground="#FFE4A3"/>
+  <style name="Preprocessor" foreground="#FF6E6E"/>
+  <style name="Operator" foreground="#FF9AA2"/>
+  <style name="Constant" foreground="#FFE4A3"/>
+  <style name="Variable" foreground="#ffffff"/>
+</style-scheme>

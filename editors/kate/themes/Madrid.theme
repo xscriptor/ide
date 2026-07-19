@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Madrid
+Author=Xscriptor
+Description=Xscriptor Madrid theme for Kate
+
+[Colors]
+Background=#fafafa
+Foreground=#1a1a1a
+Selection=#d8d8d8
+Current Line=#efefef
+Line Numbers=#4d4d4d
+Cursor=#4d2699
+Tab Marker=#4d4d4d
+Bracket=#4d2699
+Word Wrap Marker=#4d4d4d
+Search Highlight=#8a6408
+
+[Editor Colors]
+Text=#1a1a1a
+Text Background=#fafafa
+Highlight=#efefef
+Highlighted Bracket=#4d2699
+Code Folding=#4d4d4d
+Line Numbers=#4d4d4d
+Selection=#d8d8d8
+Word Wrap=#4d4d4d
+Tab Marker=#4d4d4d
+
+[Syntax]
+Comment=#4d4d4d
+String=#007a28
+Number=#8a6408
+Keyword=#4d2699
+Type=#007a9e
+Function=#007a9e
+Variable=#1a1a1a
+Constant=#8a6408
+Preprocessor=#990026
+Operator=#4d2699

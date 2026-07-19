@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotepadPlus>
+  <Theme name="Xscriptor London">
+    <GlobalStyle bgColor="FFFFFF" fgColor="333333" bold="no" italic="no"/>
+    <WidgetStyle name="Global override" bgColor="FFFFFF" fgColor="333333"/>
+    <WidgetStyle name="Selected text colour" bgColor="E0E0E0" fgColor="333333"/>
+    <WidgetStyle name="Caret colour" fgColor="777777"/>
+    <WidgetStyle name="Line number margin" bgColor="FFFFFF" fgColor="333333"/>
+    <WidgetStyle name="Fold" bgColor="FFFFFF" fgColor="777777"/>
+    <WidgetStyle name="Current line" bgColor="F5F5F5"/>
+    <!-- Syntax -->
+    <LexerType name="comment" fgColor="333333" italic="yes"/>
+    <LexerType name="commentline" fgColor="333333" italic="yes"/>
+    <LexerType name="string" fgColor="444444"/>
+    <LexerType name="number" fgColor="555555"/>
+    <LexerType name="keyword" fgColor="777777"/>
+    <LexerType name="type" fgColor="888888"/>
+    <LexerType name="function" fgColor="666666"/>
+    <LexerType name="preprocessor" fgColor="444444"/>
+    <LexerType name="operator" fgColor="777777"/>
+    <LexerType name="variable" fgColor="333333"/>
+    <LexerType name="constant" fgColor="555555"/>
+  </Theme>
+</NotepadPlus>

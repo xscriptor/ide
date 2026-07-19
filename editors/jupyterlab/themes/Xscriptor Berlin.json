@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor Berlin",
+  "type": "theme",
+  "colors": {
+    "background": "#000000",
+    "foreground": "#cccccc",
+    "caret": "#aaaaaa",
+    "selection": "#1f1f1f",
+    "line-number": "#666666",
+    "cm-comment": "#666666",
+    "cm-string": "#bbbbbb",
+    "cm-number": "#dddddd",
+    "cm-keyword": "#aaaaaa",
+    "cm-type": "#cccccc",
+    "cm-def": "#888888",
+    "cm-variable": "#cccccc",
+    "cm-operator": "#aaaaaa",
+    "cm-meta": "#bbbbbb",
+    "cm-builtin": "#cccccc",
+    "cm-tag": "#999999",
+    "cm-attribute": "#dddddd"
+  }
+}

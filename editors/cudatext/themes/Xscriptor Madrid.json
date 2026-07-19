@@ -1,0 +1,36 @@
+{
+  "name": "Xscriptor Madrid",
+  "author": "Xscriptor",
+  "ui": {
+    "color": {
+      "EditorBg": "#fafafa",
+      "EditorFont": "#1a1a1a",
+      "EditorSel": "#d8d8d8",
+      "EditorSelFocused": "#d8d8d8",
+      "EditorLineNumbers": "#4d4d4d",
+      "EditorLineNumbersActive": "#4d2699",
+      "EditorCaret": "#4d2699",
+      "EditorCurrentLine": "#efefef",
+      "EditorBookmark": "#4d2699",
+      "TabBg": "#fafafa",
+      "TabActive": "#efefef",
+      "TabPassive": "#fafafa",
+      "StatusLine": "#fafafa",
+      "ScrollBar": "#4d4d4d"
+    }
+  },
+  "lexer": {
+    "Comment": "#4d4d4d",
+    "String": "#007a28",
+    "Number": "#8a6408",
+    "Keyword": "#4d2699",
+    "Identifier": "#1a1a1a",
+    "Function": "#007a9e",
+    "Class": "#007a9e",
+    "Type": "#007a9e",
+    "Preprocessor": "#990026",
+    "Constant": "#8a6408",
+    "Variable": "#1a1a1a",
+    "Operator": "#4d2699"
+  }
+}

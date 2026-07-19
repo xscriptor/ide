@@ -1,0 +1,26 @@
+{
+  "name": "Xscriptor Lahabana",
+  "theme": {
+    "background": "#19191a",
+    "foreground": "#f7f1ff",
+    "caret": "#948ae3",
+    "selection": "#3a393c",
+    "line_numbers": "#67656a",
+    "current_line": "#242425",
+    "fold": "#67656a",
+    "matching_bracket": "#948ae3",
+    "bookmark": "#948ae3",
+    "breakpoint": "#fc618d",
+    "syntax": {
+      "comment": "#67656a",
+      "string": "#7bd88f",
+      "number": "#e5ff9d",
+      "keyword": "#948ae3",
+      "type": "#5ad4e6",
+      "function": "#fd9353",
+      "preprocessor": "#fc618d",
+      "variable": "#f7f1ff",
+      "constant": "#e5ff9d"
+    }
+  }
+}

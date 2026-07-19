@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Lahabana
+Author=Xscriptor
+Description=Xscriptor Lahabana theme for Kate
+
+[Colors]
+Background=#19191a
+Foreground=#f7f1ff
+Selection=#3a393c
+Current Line=#242425
+Line Numbers=#67656a
+Cursor=#948ae3
+Tab Marker=#67656a
+Bracket=#948ae3
+Word Wrap Marker=#67656a
+Search Highlight=#e5ff9d
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#19191a
+Highlight=#242425
+Highlighted Bracket=#948ae3
+Code Folding=#67656a
+Line Numbers=#67656a
+Selection=#3a393c
+Word Wrap=#67656a
+Tab Marker=#67656a
+
+[Syntax]
+Comment=#67656a
+String=#7bd88f
+Number=#e5ff9d
+Keyword=#948ae3
+Type=#5ad4e6
+Function=#fd9353
+Variable=#f7f1ff
+Constant=#e5ff9d
+Preprocessor=#fc618d
+Operator=#948ae3

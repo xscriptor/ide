@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Bogota
+Author=Xscriptor
+Description=Xscriptor Bogota theme for Kate
+
+[Colors]
+Background=#200b0a
+Foreground=#f7f1ff
+Selection=#402e2f
+Current Line=#2b1616
+Line Numbers=#8c7e84
+Cursor=#ff9999
+Tab Marker=#8c7e84
+Bracket=#ff9999
+Word Wrap Marker=#8c7e84
+Search Highlight=#ffed89
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#200b0a
+Highlight=#2b1616
+Highlighted Bracket=#ff9999
+Code Folding=#8c7e84
+Line Numbers=#8c7e84
+Selection=#402e2f
+Word Wrap=#8c7e84
+Tab Marker=#8c7e84
+
+[Syntax]
+Comment=#8c7e84
+String=#7bd88f
+Number=#ffed89
+Keyword=#ff9999
+Type=#47e6ff
+Function=#47e6ff
+Variable=#f7f1ff
+Constant=#ffed89
+Preprocessor=#fc618d
+Operator=#ff9999

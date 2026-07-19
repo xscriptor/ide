@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Helsinki",
+  "description": "Xscriptor Helsinki theme for Replit",
+  "dark": false,
+  "colors": {
+    "background": "#f8fafe",
+    "foreground": "#544d40",
+    "primary": "#3e9d21",
+    "secondary": "#bd4c3d",
+    "accent": "#b55a0f",
+    "success": "#733d9a",
+    "warning": "#2e70ad",
+    "error": "#1faa9e",
+    "info": "#bd4c3d",
+    "muted": "#8d8a82",
+    "border": "#f0f1f4",
+    "surface": "#f8fafe",
+    "code": {
+      "comment": "#8d8a82",
+      "string": "#733d9a",
+      "number": "#2e70ad",
+      "keyword": "#3e9d21",
+      "type": "#bd4c3d",
+      "function": "#b55a0f",
+      "variable": "#544d40",
+      "constant": "#2e70ad",
+      "operator": "#3e9d21",
+      "preprocessor": "#009e91",
+      "tag": "#1faa9e",
+      "attribute": "#2e70ad"
+    }
+  }
+}

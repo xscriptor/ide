@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor London
+Author=Xscriptor
+Description=Xscriptor London theme for Kate
+
+[Colors]
+Background=#ffffff
+Foreground=#333333
+Selection=#e0e0e0
+Current Line=#f5f5f5
+Line Numbers=#333333
+Cursor=#777777
+Tab Marker=#333333
+Bracket=#777777
+Word Wrap Marker=#333333
+Search Highlight=#555555
+
+[Editor Colors]
+Text=#333333
+Text Background=#ffffff
+Highlight=#f5f5f5
+Highlighted Bracket=#777777
+Code Folding=#333333
+Line Numbers=#333333
+Selection=#e0e0e0
+Word Wrap=#333333
+Tab Marker=#333333
+
+[Syntax]
+Comment=#333333
+String=#444444
+Number=#555555
+Keyword=#777777
+Type=#888888
+Function=#666666
+Variable=#333333
+Constant=#555555
+Preprocessor=#444444
+Operator=#777777

@@ -1,0 +1,39 @@
+[Theme]
+Name=Xscriptor Miami
+Author=Xscriptor
+Description=Xscriptor Miami theme for Kate
+
+[Colors]
+Background=#000000
+Foreground=#f7f1ff
+Selection=#252426
+Current Line=#0c0c0d
+Line Numbers=#69676c
+Cursor=#D36CFF
+Tab Marker=#69676c
+Bracket=#D36CFF
+Word Wrap Marker=#69676c
+Search Highlight=#FFD84C
+
+[Editor Colors]
+Text=#f7f1ff
+Text Background=#000000
+Highlight=#0c0c0d
+Highlighted Bracket=#D36CFF
+Code Folding=#69676c
+Line Numbers=#69676c
+Selection=#252426
+Word Wrap=#69676c
+Tab Marker=#69676c
+
+[Syntax]
+Comment=#69676c
+String=#7FFFD4
+Number=#FFD84C
+Keyword=#D36CFF
+Type=#47CFFF
+Function=#00FFA8
+Variable=#f7f1ff
+Constant=#FFD84C
+Preprocessor=#FF4C8B
+Operator=#D36CFF

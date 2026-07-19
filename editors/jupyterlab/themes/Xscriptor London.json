@@ -1,0 +1,23 @@
+{
+  "name": "Xscriptor London",
+  "type": "theme",
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#333333",
+    "caret": "#777777",
+    "selection": "#e0e0e0",
+    "line-number": "#333333",
+    "cm-comment": "#333333",
+    "cm-string": "#444444",
+    "cm-number": "#555555",
+    "cm-keyword": "#777777",
+    "cm-type": "#888888",
+    "cm-def": "#666666",
+    "cm-variable": "#333333",
+    "cm-operator": "#777777",
+    "cm-meta": "#444444",
+    "cm-builtin": "#888888",
+    "cm-tag": "#333333",
+    "cm-attribute": "#555555"
+  }
+}

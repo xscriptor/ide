@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Xscriptor Tokio">
+  <style name="Text" foreground="#f7f1ff" background="#1c1c1d"/>
+  <style name="LineNumber" foreground="#69676c" background="#1c1c1d"/>
+  <style name="CurrentLineNumber" foreground="#948ae3" background="#272728"/>
+  <style name="Selection" background="#3d3c3f"/>
+  <style name="CurrentLine" background="#272728"/>
+  <style name="SearchResult" foreground="#1c1c1d" background="#fce566"/>
+  <style name="SearchScope" background="rgba(252, 229, 102, 0.3)"/>
+  <style name="Parentheses" foreground="#948ae3" background="#272728"/>
+  <style name="VisualWhitespace" foreground="#69676c"/>
+  <style name="MismatchingParentheses" foreground="#fc618d"/>
+  <style name="Comment" foreground="#69676c" italic="true"/>
+  <style name="Keyword" foreground="#948ae3"/>
+  <style name="Type" foreground="#5ad4e6"/>
+  <style name="Function" foreground="#fd9353"/>
+  <style name="String" foreground="#7bd88f"/>
+  <style name="Number" foreground="#fce566"/>
+  <style name="Preprocessor" foreground="#fc618d"/>
+  <style name="Operator" foreground="#948ae3"/>
+  <style name="Constant" foreground="#fce566"/>
+  <style name="Variable" foreground="#f7f1ff"/>
+</style-scheme>

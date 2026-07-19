@@ -1,0 +1,35 @@
+{
+  "name": "oslo",
+  "comment": "Xscriptor Oslo theme",
+  "colors": {
+    "background": "#3f4451",
+    "foreground": "#abb2bf",
+    "lineNumber": "#959ca9",
+    "cursorLine": "#444a56",
+    "selection": "rgba(171, 178, 191, 0.15)",
+    "tab": "#444a56",
+    "divider": "#959ca9",
+    "statusline": "#3f4451",
+    "statuslineprompt": "#c162de",
+    "color-column": "#444a56",
+    "gutter": "#3f4451"
+  },
+  "syntax": {
+    "comment": "#959ca9",
+    "constant": "#d18f52",
+    "number": "#d18f52",
+    "string": "#8cc265",
+    "identifier": "#abb2bf",
+    "keyword": "#c162de",
+    "statement": "#c162de",
+    "type": "#42b3c2",
+    "preproc": "#ff616e",
+    "predefined": "#42b3c2",
+    "symbol": "#abb2bf",
+    "function": "#4aa5f0",
+    "variable": "#abb2bf",
+    "special": "#e05561",
+    "tag": "#e05561",
+    "error": "#e05561"
+  }
+}

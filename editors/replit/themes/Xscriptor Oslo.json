@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Oslo",
+  "description": "Xscriptor Oslo theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#3f4451",
+    "foreground": "#abb2bf",
+    "primary": "#c162de",
+    "secondary": "#42b3c2",
+    "accent": "#4aa5f0",
+    "success": "#8cc265",
+    "warning": "#d18f52",
+    "error": "#e05561",
+    "info": "#42b3c2",
+    "muted": "#959ca9",
+    "border": "#444a56",
+    "surface": "#3f4451",
+    "code": {
+      "comment": "#959ca9",
+      "string": "#8cc265",
+      "number": "#d18f52",
+      "keyword": "#c162de",
+      "type": "#42b3c2",
+      "function": "#4aa5f0",
+      "variable": "#abb2bf",
+      "constant": "#d18f52",
+      "operator": "#c162de",
+      "preprocessor": "#ff616e",
+      "tag": "#e05561",
+      "attribute": "#d18f52"
+    }
+  }
+}

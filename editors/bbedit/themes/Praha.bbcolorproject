@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Xscriptor Praha</string>
+  <key>author</key>
+  <string>Xscriptor</string>
+  <key>background</key>
+  <string>0.1019607843 0.1019607843 0.1019607843</string>
+  <key>foreground</key>
+  <string>1.0000000000 1.0000000000 1.0000000000</string>
+  <key>selection</key>
+  <string>1.0000000000 1.0000000000 1.0000000000 0.15</string>
+  <key>currentLine</key>
+  <string>0.1450980392 0.1450980392 0.1450980392 1.0</string>
+  <key>cursor</key>
+  <string>1.0000000000 0.6039215686 0.6352941176</string>
+  <key>lineNumbers</key>
+  <string>0.3843137255 0.4470588235 0.6431372549</string>
+  <key>comment</key>
+  <string>0.3843137255 0.4470588235 0.6431372549</string>
+  <key>string</key>
+  <string>0.7215686275 0.9019607843 0.6274509804</string>
+  <key>number</key>
+  <string>1.0000000000 0.8941176471 0.6392156863</string>
+  <key>keyword</key>
+  <string>1.0000000000 0.6039215686 0.6352941176</string>
+  <key>type</key>
+  <string>0.5450980392 0.9137254902 0.9921568627</string>
+  <key>function</key>
+  <string>0.7411764706 0.5764705882 0.9764705882</string>
+  <key>preprocessor</key>
+  <string>1.0000000000 0.4313725490 0.4313725490</string>
+  <key>variable</key>
+  <string>1.0000000000 1.0000000000 1.0000000000</string>
+  <key>constant</key>
+  <string>1.0000000000 0.8941176471 0.6392156863</string>
+  <key>tag</key>
+  <string>1.0000000000 0.3333333333 0.3333333333</string>
+  <key>attribute</key>
+  <string>1.0000000000 0.8941176471 0.6392156863</string>
+</dict>
+</plist>

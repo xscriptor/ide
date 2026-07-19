@@ -1,0 +1,41 @@
+{
+  "name": "Xscriptor Madrid",
+  "type": "theme",
+  "colors": {
+    "editor.background": "#fafafa",
+    "editor.foreground": "#1a1a1a",
+    "editorCursor.foreground": "#4d2699",
+    "editor.selectionBackground": "#d8d8d8",
+    "editor.lineHighlightBackground": "#efefef",
+    "editorLineNumber.foreground": "#4d4d4d",
+    "editorLineNumber.activeForeground": "#4d2699",
+    "editorGutter.background": "#fafafa",
+    "editorBracketMatch.background": "#efefef",
+    "editorBracketMatch.border": "#4d2699",
+    "editor.findMatchHighlightBackground": "rgba(138, 100, 8, 0.3)",
+    "editor.findMatchBackground": "#8a6408",
+    "editorWidget.background": "#fafafa",
+    "editorWidget.foreground": "#1a1a1a",
+    "inputValidation.infoBackground": "rgba(0, 122, 158, 0.3)",
+    "inputValidation.warningBackground": "rgba(138, 100, 8, 0.3)",
+    "inputValidation.errorBackground": "rgba(153, 0, 38, 0.3)"
+  },
+  "tokenColors": [
+    {"scope": "comment", "settings": {"foreground": "#4d4d4d", "fontStyle": "italic"}},
+    {"scope": "string", "settings": {"foreground": "#007a28"}},
+    {"scope": "constant.numeric", "settings": {"foreground": "#8a6408"}},
+    {"scope": "keyword", "settings": {"foreground": "#4d2699"}},
+    {"scope": "storage.type", "settings": {"foreground": "#007a9e"}},
+    {"scope": "entity.name.function", "settings": {"foreground": "#007a9e"}},
+    {"scope": "entity.name.type", "settings": {"foreground": "#007a9e"}},
+    {"scope": "variable", "settings": {"foreground": "#1a1a1a"}},
+    {"scope": "variable.language", "settings": {"foreground": "#990026"}},
+    {"scope": "constant", "settings": {"foreground": "#8a6408"}},
+    {"scope": "support.function", "settings": {"foreground": "#007a9e"}},
+    {"scope": "support.type", "settings": {"foreground": "#007a9e"}},
+    {"scope": "entity.other.attribute-name", "settings": {"foreground": "#8a6408"}},
+    {"scope": "entity.name.tag", "settings": {"foreground": "#990026"}},
+    {"scope": "markup.heading", "settings": {"foreground": "#007a9e", "fontStyle": "bold"}},
+    {"scope": "markup.list", "settings": {"foreground": "#990026"}}
+  ]
+}

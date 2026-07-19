@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Miami",
+  "description": "Xscriptor Miami theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#000000",
+    "foreground": "#f7f1ff",
+    "primary": "#D36CFF",
+    "secondary": "#47CFFF",
+    "accent": "#00FFA8",
+    "success": "#7FFFD4",
+    "warning": "#FFD84C",
+    "error": "#FF4C8B",
+    "info": "#47CFFF",
+    "muted": "#69676c",
+    "border": "#0c0c0d",
+    "surface": "#000000",
+    "code": {
+      "comment": "#69676c",
+      "string": "#7FFFD4",
+      "number": "#FFD84C",
+      "keyword": "#D36CFF",
+      "type": "#47CFFF",
+      "function": "#00FFA8",
+      "variable": "#f7f1ff",
+      "constant": "#FFD84C",
+      "operator": "#D36CFF",
+      "preprocessor": "#FF4C8B",
+      "tag": "#FF4C8B",
+      "attribute": "#FFD84C"
+    }
+  }
+}

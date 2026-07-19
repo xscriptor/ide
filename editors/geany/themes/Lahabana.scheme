@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Lahabana
+Description=Xscriptor Lahabana theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#19191a
+caret=0;0;0;
+caret0=148;138;227
+current_line=#242425
+line_numbers=#67656a
+selection=#3a393c
+
+[NamedStyles]
+comment=103;101;106,false,true,false,false
+commentline=103;101;106,false,true,false,false
+commentdoc=103;101;106,false,true,false,false
+commentdockeyword=103;101;106,false,true,false,false
+string=123;216;143,false,false,false,false
+number=229;255;157,false,false,false,false
+keyword=148;138;227,false,false,false,false
+type=90;212;230,false,false,false,false
+function=253;147;83,false,false,false,false
+preprocessor=252;97;141,false,false,false,false
+constant=229;255;157,false,false,false,false
+variable=247;241;255,false,false,false,false
+operator=148;138;227,false,false,false,false

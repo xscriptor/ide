@@ -1,0 +1,33 @@
+{
+  "name": "Xscriptor Praha",
+  "description": "Xscriptor Praha theme for Replit",
+  "dark": true,
+  "colors": {
+    "background": "#1a1a1a",
+    "foreground": "#ffffff",
+    "primary": "#FF9AA2",
+    "secondary": "#8BE9FD",
+    "accent": "#BD93F9",
+    "success": "#B8E6A0",
+    "warning": "#FFE4A3",
+    "error": "#FF5555",
+    "info": "#8BE9FD",
+    "muted": "#6272A4",
+    "border": "#252525",
+    "surface": "#1A1A1A",
+    "code": {
+      "comment": "#6272A4",
+      "string": "#B8E6A0",
+      "number": "#FFE4A3",
+      "keyword": "#FF9AA2",
+      "type": "#8BE9FD",
+      "function": "#BD93F9",
+      "variable": "#ffffff",
+      "constant": "#FFE4A3",
+      "operator": "#FF9AA2",
+      "preprocessor": "#FF6E6E",
+      "tag": "#FF5555",
+      "attribute": "#FFE4A3"
+    }
+  }
+}

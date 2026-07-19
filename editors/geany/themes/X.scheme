@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor X
+Description=Xscriptor X theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#050505
+caret=0;0;0;
+caret0=148;138;227
+current_line=#111112
+line_numbers=#7e7b82
+selection=#29282a
+
+[NamedStyles]
+comment=126;123;130,false,true,false,false
+commentline=126;123;130,false,true,false,false
+commentdoc=126;123;130,false,true,false,false
+commentdockeyword=126;123;130,false,true,false,false
+string=123;216;143,false,false,false,false
+number=252;229;102,false,false,false,false
+keyword=148;138;227,false,false,false,false
+type=90;212;230,false,false,false,false
+function=253;147;83,false,false,false,false
+preprocessor=252;97;141,false,false,false,false
+constant=252;229;102,false,false,false,false
+variable=247;241;255,false,false,false,false
+operator=148;138;227,false,false,false,false

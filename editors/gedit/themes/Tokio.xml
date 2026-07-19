@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme SYSTEM "gedit-color-scheme.dtd">
+<theme>
+  <name>Xscriptor Tokio</name>
+  <author>Xscriptor</author>
+  <description>Xscriptor Tokio theme for Gedit</description>
+  <color name="background" value="#1c1c1d"/>
+  <color name="foreground" value="#f7f1ff"/>
+  <color name="cursor" value="#948ae3"/>
+  <color name="selection" value="rgba(247, 241, 255, 0.15)"/>
+  <color name="current_line" value="#272728"/>
+  <color name="line_numbers" value="#69676c"/>
+  <color name="bracket_match" value="#948ae3"/>
+  <color name="search_match" value="#fce566"/>
+  <!-- Styles -->
+  <style name="text" foreground="#f7f1ff" background="#1c1c1d"/>
+  <style name="cursor" foreground="#948ae3"/>
+  <style name="current-line" background="#272728"/>
+  <style name="line-numbers" foreground="#69676c"/>
+  <style name="selection" background="rgba(247, 241, 255, 0.15)"/>
+  <style name="search-match" foreground="#1c1c1d" background="#fce566"/>
+  <!-- Syntax -->
+  <style name="comment" foreground="#69676c" italic="true"/>
+  <style name="string" foreground="#7bd88f"/>
+  <style name="constant" foreground="#fce566"/>
+  <style name="constant.numeric" foreground="#fce566"/>
+  <style name="variable" foreground="#f7f1ff"/>
+  <style name="keyword" foreground="#948ae3"/>
+  <style name="type" foreground="#5ad4e6"/>
+  <style name="function" foreground="#fd9353"/>
+  <style name="preprocessor" foreground="#fc618d"/>
+  <style name="specials" foreground="#fc618d"/>
+  <style name="def:linenumber" foreground="#69676c"/>
+</theme>

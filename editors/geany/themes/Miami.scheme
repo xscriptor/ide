@@ -1,0 +1,28 @@
+[Scheme]
+Name=Xscriptor Miami
+Description=Xscriptor Miami theme for Geany
+Author=Xscriptor
+Version=1.0
+
+[Colors]
+background=#000000
+caret=0;0;0;
+caret0=211;108;255
+current_line=#0c0c0d
+line_numbers=#69676c
+selection=#252426
+
+[NamedStyles]
+comment=105;103;108,false,true,false,false
+commentline=105;103;108,false,true,false,false
+commentdoc=105;103;108,false,true,false,false
+commentdockeyword=105;103;108,false,true,false,false
+string=127;255;212,false,false,false,false
+number=255;216;76,false,false,false,false
+keyword=211;108;255,false,false,false,false
+type=71;207;255,false,false,false,false
+function=0;255;168,false,false,false,false
+preprocessor=255;76;139,false,false,false,false
+constant=255;216;76,false,false,false,false
+variable=247;241;255,false,false,false,false
+operator=211;108;255,false,false,false,false
