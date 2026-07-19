@@ -19,10 +19,10 @@
 ## Phase 2: IDE Ports (Code Editors) <!-- phase:code-editor-ports -->
 
 - [x] Port themes to VS Code (.json ColorTheme)
-- [ ] Port themes to Sublime Text (.sublime-color-scheme)
+- [x] Port themes to Sublime Text (.sublime-color-scheme)
 - [ ] Port themes to TextMate (.tmTheme)
 - [ ] Port themes to Vim (.vim colorscheme)
-- [ ] Port themes to Neovim (.lua colorscheme)
+- [x] Port themes to Neovim (.lua colorscheme)
 - [ ] Port themes to Emacs (color theme)
 - [ ] Port themes to Helix (.toml themes)
 - [ ] Port themes to Zed (.json themes)
@@ -39,10 +39,11 @@
 ## Phase 3: IDE Ports (Full IDEs & Platforms) <!-- phase:full-ide-ports -->
 
 - [x] Port themes to IntelliJ IDEA / JetBrains Suite (.icls / .jar)
+- [x] Port themes to Xcode (.xccolortheme)
 - [ ] Port themes to Eclipse (.epf color themes)
 - [ ] Port themes to NetBeans (.zip theme)
 - [ ] Port themes to Visual Studio (.vssettings)
-- [ ] Port themes to Android Studio (.icls)
+- [x] Port themes to Android Studio (.icls)
 - [ ] Port themes to Qt Creator (.creatortheme)
 - [ ] Port themes to Code::Blocks (.conf)
 - [ ] Port themes to Spyder (.py / .qss themes)
@@ -77,6 +78,7 @@
 - [ ] Install script for Kate (install.sh)
 - [ ] Install script for Gedit (install.sh)
 - [ ] Install script for Notepad++ (install.ps1)
+- [x] Install script for Xcode (install.sh)
 - [x] Install script for IntelliJ IDEA / JetBrains (install.sh)
 - [ ] Install script for Eclipse (install.sh)
 - [ ] Install script for NetBeans (install.sh)
@@ -116,7 +118,7 @@
 - [x] README for VS Code
 - [x] README for Sublime Text
 - [ ] README for TextMate
-- [ ] README for Vim / Neovim
+- [x] README for Vim / Neovim
 - [ ] README for Emacs
 - [ ] README for Helix
 - [ ] README for Zed
@@ -128,11 +130,12 @@
 - [ ] README for Notepad++
 - [ ] README for CudaText
 - [ ] README for BBEdit
+- [x] README for Xcode
 - [x] README for IntelliJ IDEA / JetBrains Suite
 - [ ] README for Eclipse
 - [ ] README for NetBeans
 - [ ] README for Visual Studio
-- [ ] README for Android Studio
+- [x] README for Android Studio
 - [ ] README for Qt Creator
 - [ ] README for Code::Blocks
 - [ ] README for Spyder
